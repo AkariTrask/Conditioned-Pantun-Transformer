@@ -14,7 +14,6 @@ def format_pantun(item):
     Mengonversi dictionary menjadi string berformat token eksplisit
     sesuai spesifikasi Tahap 4.
     """
-    tema = item['tema']
     rima_a = item['rima_a']
     rima_b = item['rima_b']
     
@@ -22,8 +21,8 @@ def format_pantun(item):
     teks_baris = '\n'.join(item['larik'])
     
     # Merakit struktur akhir
-    # Format: <|start|> [TEMA: jenaka] [RIMA: an, ri]\nbaris1...\n<|end|>
-    formatted_text = f"<|start|> [TEMA: {tema}] [RIMA: {rima_a}, {rima_b}]\n{teks_baris}\n<|end|>"
+    # Format: <|start|> [RIMA: an, ri]\nbaris1...\n<|end|>
+    formatted_text = f"<|start|> [RIMA: {rima_a}, {rima_b}]\n{teks_baris}\n<|end|>"
     return formatted_text
 
 def split_and_save(data, output_dir):

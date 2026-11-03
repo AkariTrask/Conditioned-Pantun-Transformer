@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import math
 import time
@@ -17,8 +18,10 @@ sys.path.append(os.path.join(BASE_DIR, '2.MODEL'))
 sys.path.append(os.path.join(BASE_DIR, '1.DATASET'))
 
 from model import MiniTransformer, ModelConfig
-# PERBAIKAN 1: Import PantunCustomTokenizer yang baru
-from tokenization import PantunCustomTokenizer, PantunDataset, PantunCollator
+from tokenization import (
+    PantunCustomTokenizer, PantunDataset, PantunCollator,
+    analyze_context_length, extract_words,
+)
 
 # =============================================================================
 # Helper Functions
@@ -31,12 +34,12 @@ def set_seed(seed):
         torch.cuda.manual_seed_all(seed)
 
 def get_lr(step, args):
-    """Cosine learning rate scheduler with linear warmup (Eq. 3 paper adaptation)."""
+    """Cosine learning rate scheduler with linear warmup."""
     if step < args.warmup_steps:
         return args.lr * (step + 1) / args.warmup_steps
     if step > args.max_steps:
         return args.min_lr
-    decay_ratio = (step - args.warmup_steps) / (args.max_steps - args.warmup_steps)
+    decay_ratio = (step - args.warmup_steps) / max(1, (args.max_steps - args.warmup_steps))
     coeff = 0.5 * (1.0 + math.cos(math.pi * decay_ratio))
     return args.min_lr + coeff * (args.lr - args.min_lr)
 
@@ -51,29 +54,65 @@ def estimate_loss(model, dataloaders, eval_iters, device, device_type):
             if k >= eval_iters: break
             x = batch["input_ids"].to(device)
             y = batch["labels"].to(device)
-            
+
             with torch.autocast(device_type=device_type, dtype=torch.bfloat16):
+                _, loss = model(idx=x, targets=y, ignore_index=-100)
                 if isinstance(model, nn.DataParallel):
-                    _, loss = model(idx=x, targets=y, ignore_index=-100)
                     loss = loss.mean()
-                else:
-                    _, loss = model(idx=x, targets=y, ignore_index=-100)
             losses.append(loss.item())
         out[split] = sum(losses) / len(losses) if losses else 0.0
     model.train()
     return out
 
+# =============================================================================
+# Generation & Pantun-specific metrics
+# =============================================================================
 @torch.no_grad()
-# PERBAIKAN 2: Format prompt sampel diekspansi menjadi Full Conditioning
-def generate_sample(model, tokenizer, device, prompt_text="<|bos|><|tema|>cinta<|rima_a|>an<|rima_b|>ti<|isi|>"):
-    """Sanity check qualitative generation during evaluation."""
+def generate_text(model, tokenizer, prefix, device, max_new_tokens):
+    """Generate dari prefix kondisi. Mengembalikan teks yang dipotong di <|end|>."""
     model.eval()
-    input_ids = torch.tensor([tokenizer.encode(prompt_text)], dtype=torch.long).to(device)
+    input_ids = torch.tensor([tokenizer.encode(prefix)], dtype=torch.long).to(device)
     raw_model = model.module if hasattr(model, "module") else model
-    out_ids = raw_model.generate(input_ids, max_new_tokens=80, top_k=50)
-    generated_text = tokenizer.decode(out_ids[0].tolist())
+    out_ids = raw_model.generate(input_ids, max_new_tokens=max_new_tokens, top_k=50)
+    text = tokenizer.decode(out_ids[0].tolist())
+    return text.split("<|end|>")[0]
+
+def parse_body(text):
+    """Ambil baris pantun setelah <|isi|>, buang <|batas|>."""
+    body = text.split("<|isi|>", 1)[-1].replace("<|batas|>", "\n")
+    return [l.strip() for l in body.split("\n") if l.strip()]
+
+def last_letter(line):
+    letters = re.findall(r"[a-z]", line.lower())
+    return letters[-1] if letters else ""
+
+@torch.no_grad()
+def pantun_quality_eval(model, tokenizer, items, train_words, device, max_new_tokens):
+    """
+    Metrik langsung untuk dua masalah utama:
+      - rhyme_acc : % baris yang huruf akhirnya cocok dengan RIMA (pola A-B-A-B)
+      - struct_ok : % sampel yang menghasilkan tepat 4 baris
+      - oov_rate  : % kata hasil generate yang tidak ada di korpus train (proxy typo)
+    """
+    hit = tot = struct = oov = words = 0
+    for it in items:
+        prefix = PantunDataset.build_prefix(it["rima_a"], it["rima_b"], "full")
+        text = generate_text(model, tokenizer, prefix, device, max_new_tokens)
+        lines = parse_body(text)
+        struct += int(len(lines) == 4)
+        for line, tgt in zip(lines[:4], [it["rima_a"], it["rima_b"], it["rima_a"], it["rima_b"]]):
+            tot += 1
+            hit += int(last_letter(line) == tgt)
+        for w in extract_words(" ".join(lines)):
+            words += 1
+            oov += int(w not in train_words)
     model.train()
-    return generated_text
+    n = max(1, len(items))
+    return {
+        "rhyme_acc": hit / max(1, tot),
+        "struct_ok": struct / n,
+        "oov_rate": oov / max(1, words),
+    }
 
 # =============================================================================
 # Main Training Loop
@@ -90,15 +129,15 @@ def train():
     parser.add_argument("--grad_clip", type=float, default=1.0)
     parser.add_argument("--eval_interval", type=int, default=250)
     parser.add_argument("--eval_iters", type=int, default=100)
+    parser.add_argument("--rhyme_samples", type=int, default=16, help="Jumlah sampel generate untuk metrik rima/typo")
     parser.add_argument("--seed", type=int, default=1337)
     parser.add_argument("--resume", action="store_true", help="Resume from last.pt")
     parser.add_argument("--smoke_test", action="store_true", help="Run a quick pipeline test with 2 steps and 2 eval batches")
     args = parser.parse_args()
 
-    # Apply smoke test overrides
     if args.smoke_test:
         print("\n" + "="*50)
-        print("🚀 SMOKE TEST MODE ACTIVATED")
+        print("SMOKE TEST MODE ACTIVATED")
         print("Will run only 2 training steps and 2 eval iterations to verify the entire pipeline.")
         print("="*50 + "\n")
         args.max_steps = 2
@@ -106,6 +145,7 @@ def train():
         args.eval_iters = 2
         args.grad_accum_steps = 1
         args.warmup_steps = 1
+        args.rhyme_samples = 2
 
     set_seed(args.seed)
 
@@ -114,16 +154,15 @@ def train():
     device_type = "cuda" if "cuda" in device else "cpu"
     print(f"[Init] Using device: {device}")
 
-    # 2. Setup Tokenizer & Data
-    # PERBAIKAN 3: Load Custom BPE Tokenizer yang sudah dilatih (Vocab 4000)
-    tokenizer_path = os.path.join(BASE_DIR, '1.DATASET', 'pantun_tokenizer.json')
-    tokenizer = PantunCustomTokenizer(vocab_size=4000)
-    
+    # 2. Tokenizer (Syllable-Bounded BPE + char fallback) & Data
+    tokenizer_path = os.path.join(BASE_DIR, '1.DATASET', 'pantun_syl_bpe.json')
     if not os.path.exists(tokenizer_path):
-        raise FileNotFoundError(f"Tokenizer tidak ditemukan di {tokenizer_path}! Jalankan 1.DATASET/tokenization.py terlebih dahulu.")
-    
+        raise FileNotFoundError(
+            f"Tokenizer tidak ditemukan di {tokenizer_path}! Jalankan 1.DATASET/tokenization.py terlebih dahulu."
+        )
+    tokenizer = PantunCustomTokenizer()
     tokenizer.load(tokenizer_path)
-    
+
     cfg = ModelConfig.from_config_py() if os.path.exists(os.path.join(BASE_DIR, '2.MODEL', 'config.py')) else ModelConfig()
     cfg.vocab_size = tokenizer.vocab_size
 
@@ -137,6 +176,12 @@ def train():
                 "Jalankan 1.DATASET/preprocessing.py lalu 1.DATASET/splitting.py terlebih dahulu."
             )
 
+    # Cek block_size cukup untuk urutan terpanjang (token suku kata lebih banyak dari BPE biasa)
+    stats = analyze_context_length(train_path, tokenizer)
+    if cfg.block_size < stats["max_len"]:
+        print(f"[Warning] cfg.block_size={cfg.block_size} < panjang maks {stats['max_len']}. "
+              f"Sebagian pantun akan terpotong. Rekomendasi: {stats['recommended_pow2']}.")
+
     train_dataset = PantunDataset(train_path, tokenizer, max_seq_len=cfg.block_size, is_training=True)
     val_dataset = PantunDataset(val_path, tokenizer, max_seq_len=cfg.block_size, is_training=False)
 
@@ -147,14 +192,20 @@ def train():
 
     print(f"[Init] Train samples: {len(train_dataset):,} ({train_path})")
     print(f"[Init] Val samples  : {len(val_dataset):,} ({val_path})")
-    
+    print(f"[Init] Vocab size   : {cfg.vocab_size}")
+
+    # Kosakata train untuk proxy typo + sampel val untuk evaluasi rima
+    train_words = {w for r in train_dataset.data for l in r["larik"] for w in extract_words(l)}
+    eval_items = val_dataset.data[:args.rhyme_samples]
+    gen_tokens = max(32, min(cfg.block_size - 16, 160))
+
     collator = PantunCollator(pad_token_id=tokenizer.pad_token_id, ignore_index=-100)
 
     train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=collator, drop_last=True)
     val_loader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=False, collate_fn=collator)
     dataloaders = {"train": train_loader, "val": val_loader}
 
-    # Data Pipeline Unit Test (Point B)
+    # Data Pipeline Unit Test
     sample_batch = next(iter(train_loader))
     sx, sy = sample_batch["input_ids"], sample_batch["labels"]
     valid_mask = (sy[:, :-1] != -100) & (sx[:, 1:] != tokenizer.pad_token_id)
@@ -171,7 +222,7 @@ def train():
     raw_model = model.module if hasattr(model, "module") else model
     optimizer = raw_model.configure_optimizers(lr=args.lr, weight_decay=args.weight_decay)
 
-    # 4. Resume Checkpoint Logic (Point H)
+    # 4. Resume Checkpoint Logic
     ckpt_dir = os.path.join(BASE_DIR, '3.TRAINING', 'checkpoints')
     os.makedirs(ckpt_dir, exist_ok=True)
     start_step = 0
@@ -193,46 +244,41 @@ def train():
     print(f"[Init] Expected initial loss: ~{math.log(cfg.vocab_size):.2f}")
     train_iter = iter(train_loader)
     model.train()
-    
+
     t0 = time.time()
     for step in range(start_step, args.max_steps):
-        # Update LR
         lr = get_lr(step, args)
         for param_group in optimizer.param_groups:
             param_group['lr'] = lr
 
-        # Micro-batch loop
         for micro_step in range(args.grad_accum_steps):
             try:
                 batch = next(train_iter)
             except StopIteration:
                 train_iter = iter(train_loader)
                 batch = next(train_iter)
-                
+
             x = batch["input_ids"].to(device)
             y = batch["labels"].to(device)
 
             with torch.autocast(device_type=device_type, dtype=torch.bfloat16):
+                _, loss = model(idx=x, targets=y, ignore_index=-100)
                 if isinstance(model, nn.DataParallel):
-                    _, loss = model(idx=x, targets=y, ignore_index=-100)
-                    loss = loss.mean() / args.grad_accum_steps
-                else:
-                    _, loss = model(idx=x, targets=y, ignore_index=-100)
-                    loss = loss / args.grad_accum_steps
-            
+                    loss = loss.mean()
+                loss = loss / args.grad_accum_steps
+
             if torch.isnan(loss) or torch.isinf(loss):
                 print(f"[Error] Loss is NaN/Inf at step {step}. Halting.")
                 sys.exit(1)
-                
+
             loss.backward()
 
-        # Gradient Clipping & Optimizer Step
         grad_norm = torch.nn.utils.clip_grad_norm_(model.parameters(), args.grad_clip).item()
         optimizer.step()
         optimizer.zero_grad(set_to_none=True)
 
         # Logging
-        if step % max(1, (10 if not args.smoke_test else 1)) == 0:
+        if step % (1 if args.smoke_test else 10) == 0:
             t1 = time.time()
             dt = t1 - t0
             t0 = t1
@@ -243,13 +289,18 @@ def train():
         if (step > 0 and step % args.eval_interval == 0) or step == args.max_steps - 1:
             losses = estimate_loss(model, dataloaders, args.eval_iters, device, device_type)
             val_loss = losses['val']
-            val_ppl = math.exp(min(val_loss, 20)) # Cap PPL for initial print safety
+            val_ppl = math.exp(min(val_loss, 20))
             print(f"\n--- EVAL STEP {step} ---")
-            print(f"Train Loss: {losses['train']:.4f} | Val Loss: {val_loss:.4f} | Val PPL (BPE): {val_ppl:.2f}")
-            print("Sample Gen:", generate_sample(model, tokenizer, device))
+            print(f"Train Loss: {losses['train']:.4f} | Val Loss: {val_loss:.4f} | Val PPL (syllable-BPE): {val_ppl:.2f}")
+
+            q = pantun_quality_eval(model, tokenizer, eval_items, train_words, device, gen_tokens)
+            print(f"Rhyme Acc: {q['rhyme_acc']*100:.1f}% | 4-Line OK: {q['struct_ok']*100:.1f}% | OOV/Typo proxy: {q['oov_rate']*100:.1f}%")
+
+            sample_prefix = PantunDataset.build_prefix("h", "g", "full")
+            print("Sample Gen:\n" + generate_text(model, tokenizer, sample_prefix, device, gen_tokens))
+            model.train()
             print("------------------------\n")
 
-            # Checkpointing
             raw_model.save_checkpoint(
                 os.path.join(ckpt_dir, 'last.pt'),
                 optimizer=optimizer.state_dict(),
@@ -257,7 +308,7 @@ def train():
                 best_val=best_val_loss,
                 val_loss=val_loss
             )
-            
+
             if val_loss < best_val_loss and not args.smoke_test:
                 best_val_loss = val_loss
                 raw_model.save_checkpoint(
@@ -270,7 +321,7 @@ def train():
                 print(f"[Info] New best checkpoint saved with loss {best_val_loss:.4f}")
 
     if args.smoke_test:
-        print("\n✅ SMOKE TEST PASSED: Full training loop, target shifting, loss calculation, evaluation, mixed-precision, and checkpoint saving executed successfully.\n")
+        print("\nSMOKE TEST PASSED: training loop, target shifting, loss, evaluasi, mixed-precision, dan checkpoint berjalan.\n")
 
 if __name__ == "__main__":
     train()

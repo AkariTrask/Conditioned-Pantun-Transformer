@@ -6031,3 +6031,765 @@
 {"larik": ["pergi ke pasar beli rambutan", "rambutan manis enak sekali", "kesehatan jiwa jadi panutan", "di dunia modern saat ini"]}
 {"larik": ["bunga mawar tumbuh di taman", "harum semerbak dekat jendela", "suara rakyat bukan barang dagangan", "jangan dijual demi kepentingan sementara"]}
 {"larik": ["pergi ke pasar beli tikar", "tikar anyam harganya hemat", "semangat hidup mulai berkobar", "tatap masa depan dengan cermat"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi bug datang lagi pagi-pagi"]}
+{"larik": ["bunga melati tumbuh berseri", "disimpan ibu dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum mau berlalu"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi salah memasukkan data pelanggan"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi lupa menguji sebelum deploy tepat"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tak habis sebelum waktu"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["bunga melati tumbuh berseri", "disimpan ibu dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi salah memasukkan data pelanggan"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku tak pernah hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug juga bisa jadi bahan tertawa"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa commit sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi salah memasukkan data pelanggan"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi saat diuji"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tak habis sebelum waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "besok revisi datang lagi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa password laptop sendiri melulu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi salah memasukkan data pelanggan"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kodenya hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error datang dan membuatku tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop masih memanggilku"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, semua sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tak habis sebelum waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi aplikasi crash saat demo mendadak"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sudah mandiri", "tapi masih minta bantuan saat pengujian"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa password laptop sendiri melulu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, semua sudah tepat", "tapi lupa menjalankan kode itu"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, aku sedang berjuang", "sampai laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi aplikasi crash saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error datang dan membuatku tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menjalankan program itu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi aplikasi crash saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, aku sedang berjuang", "sampai laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error datang dan membuatku tertawa"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sudah mandiri", "tapi masih minta bantuan saat pengujian"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi aplikasi crash saat demo mendadak"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tak habis sebelum waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, aku sedang berjuang", "sampai laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menambahkan validasi masukan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi aplikasi crash saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi pagi-pagi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara menyimpan file baru"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab error pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi server mati lagi sekarang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa buah langsat", "programer berkata, aku tak gentar", "tapi panik saat server sekarat"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya gemilang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata belum diunggah ke server satu"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa mengaktifkan keamanan"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke pasar membeli kacang", "pulang membawa bunga melati", "programer berkata, aku tak hilang semangat", "walau bug datang setiap hari"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku siap lembur", "asal kopi tersedia sepanjang waktu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi laptop terus memanggilku"]}
+{"larik": ["pohon jati tumbuh sangat rapat", "burung hinggap di atas batu", "programer berkata, semua sudah tepat", "tapi lupa menyimpan kode itu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi revisi datang lagi"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang lagi sekarang"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi muncul lagi setelah diuji"]}
+{"larik": ["pohon jambu tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, sistem sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["pergi ke ladang membawa parang", "pulang membeli buah rambutan", "programer berkata, aku sedang berjuang", "mengejar deadline dan revisi berbarengan"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sebab bug pun bisa jadi bahan tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih belajar debugging hari ini"]}
+{"larik": ["bunga melati tumbuh berseri", "disiram pagi oleh teman", "programer berkata, aku sangat teliti", "tapi lupa menghapus data pengujian"]}
+{"larik": ["pohon pinang tumbuh sangat rapat", "kucing tidur dekat batu", "programer berkata, kodenya tepat", "tapi lupa menyimpan perubahan satu"]}
+{"larik": ["pergi ke pasar membeli pisang", "pulang membawa bunga melati", "programer berkata, aku terus berjuang", "sampai bug terakhir akhirnya pergi"]}
+{"larik": ["pergi ke pasar membeli talas", "pulang membawa buah duku", "programer berkata, proyek sudah tuntas", "ternyata baru selesai halaman satu"]}
+{"larik": ["burung camar terbang ke muara", "ikan berenang di air biru", "programer berkata, aku paling pintar", "tapi lupa cara restart komputer itu"]}
+{"larik": ["bunga melati tumbuh berseri", "duduk santai dekat pintu", "programer berkata, aku ingin cuti", "tapi bug terakhir belum berlalu"]}
+{"larik": ["pergi ke taman membawa makanan", "duduk santai dekat melati", "programer berkata, selesai pekerjaan", "tapi besok ada revisi lagi"]}
+{"larik": ["pohon mangga tumbuh lebat", "buahnya jatuh di halaman", "programer berkata, kode sudah hebat", "tapi lupa menguji keamanan"]}
+{"larik": ["burung hantu tidur di pohon bambu", "kucing mengejar tikus ke belakang", "programer berkata, aku sudah tahu", "tapi error datang berulang-ulang"]}
+{"larik": ["anak kecil bermain layang-layang", "talinya tersangkut dekat kawat", "programer berkata, kodenya cemerlang", "tapi laptop hang saat demo mendadak"]}
+{"larik": ["pagi hari membeli kopi", "diminum sambil duduk tenang", "programer berkata, aku sangat teliti", "tapi lupa push kode sebelum pulang"]}
+{"larik": ["pergi ke pasar membeli nanas", "pulang membawa buah kiwi", "programer berkata, bug sudah tuntas", "tapi error muncul lagi hari ini"]}
+{"larik": ["kucing tidur di atas bangku", "tikus bersembunyi di dalam gua", "programer berkata, aku tak perlu ragu", "sampai error muncul dan membuatku tertawa"]}
+{"larik": ["pergi ke kebun mencari akar", "pulang membawa bunga melati", "programer berkata, aku ingin jadi pakar", "tapi masih mencari tombol run hari ini"]}
+{"larik": ["pergi ke kebun menanam pandan", "pulang membawa buah duku", "programer berkata, aku punya jawaban", "kalau error datang, restart dulu"]}

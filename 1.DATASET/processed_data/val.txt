@@ -1,8 +1,29 @@
-<|start|> [RIMA: t, a]
-jalan jalan tersandung lutut
-lutut sakit diobati segera
-dukungan pelestarian jangan surut
-demi kekayaan hayati negara
+<|start|> [RIMA: t, i]
+pergi ke kebun memetik tomat
+tomat dibawa oleh pak tani
+katanya ingin hidup hemat
+melihat promo langsung belanja lagi
+<|end|>
+
+<|start|> [RIMA: g, l]
+pergi ke ladang memanen jagung
+jagung kuning disimpan bakul
+jika hidup ingin jauh dari bingung
+susun rencana dengan betul
+<|end|>
+
+<|start|> [RIMA: r, n]
+jalan-jalan di kota blitar
+jangan lupa membeli sukun
+jikalau kamu ingin pintar
+belajarlah dengan tekun
+<|end|>
+
+<|start|> [RIMA: g, i]
+pergi ke ladang membawa parang
+pulang membawa seikat melati
+programer bilang tak pernah curang
+tapi jawaban stack overflow disalin lagi
 <|end|>
 
 <|start|> [RIMA: t, h]
@@ -19,11 +40,11 @@ kepada allah kita meminta
 petunjuk serta jalan hidayah
 <|end|>
 
-<|start|> [RIMA: n, i]
-burung merpati terbang berpasangan
-hinggap sebentar di pohon kemiri
-harga ram jadi bahan perhitungan
-agar belanja tak merugikan diri
+<|start|> [RIMA: n, h]
+makan durian bersama teman
+durian jatuh di waktu subuh
+jangan pelihara satwa liar kawan
+biar hidup bebas dan utuh
 <|end|>
 
 <|start|> [RIMA: r, t]
@@ -61,18 +82,25 @@ jangan pernah memberi sembahan
 selain kepada tuhan yang benar
 <|end|>
 
-<|start|> [RIMA: a, t]
-pergi berlayar menuju muara
-perahu bersandar dekat dermaga kuat
-korupsi bantuan sungguh tercela
-ketika rakyat sedang sekarat
+<|start|> [RIMA: t, n]
+pohon mangga tumbuh lebat
+buahnya jatuh di halaman
+programer berkata, kodenya hebat
+tapi lupa menguji keamanan
 <|end|>
 
-<|start|> [RIMA: i, n]
-pagi hari melihat sapi
-sapi perah makan rerumputan
-proposal bisnis disusun rapi
-siap dipresentasikan ke hadapan
+<|start|> [RIMA: n, i]
+melihat awan di perbukitan
+awan putih indah berseri
+mindfulness jadi cara bertahan
+sadari penuh detik ini
+<|end|>
+
+<|start|> [RIMA: i, a]
+bunga kenanga harum mewangi
+tumbuh subur dekat telaga
+jangan memusuhi sesama sendiri
+karena perbedaan bukan bencana
 <|end|>
 
 <|start|> [RIMA: g, a]
@@ -96,11 +124,11 @@ ada yang baru aja putus
 pacarnya di tikung temen
 <|end|>
 
-<|start|> [RIMA: t, a]
-beli duku di pasar kawat
-duku manis enak rasanya
-kreativitas diri harus dirawat
-jangan jadi peniru kerjanya
+<|start|> [RIMA: a, i]
+pohon mangga tumbuh di desa
+buahnya matang di pagi hari
+suap mungkin membawa bahagia sementara
+namun dampaknya dirasakan negeri
 <|end|>
 
 <|start|> [RIMA: r, a]
@@ -108,6 +136,13 @@ tidur nyenyak di atas kasur
 kasur empuk besar harganya
 mental juara harus diukur
 di lapangan hijau luasnya
+<|end|>
+
+<|start|> [RIMA: u, r]
+baca buku mendapat ilmu
+buku dibaca di ruang belajar
+lemper ayam di genggamanmu
+ketan gurih bikin tegar
 <|end|>
 
 <|start|> [RIMA: t, a]
@@ -145,11 +180,11 @@ sebab corona kami tak sekolah
 jadi tekor tak dapat duit jajan
 <|end|>
 
-<|start|> [RIMA: i, a]
-burung kenari bernyanyi pagi
-hinggap sebentar di pohon mangga
-anak kos belajar mandiri
-sampai sukses menjadi kebanggaan keluarga
+<|start|> [RIMA: t, i]
+beli kawat panjang dan kuat
+kawat dipotong dengan gergaji
+hak beragama harus dirawat
+tanpa diskriminasi di negeri
 <|end|>
 
 <|start|> [RIMA: k, s]
@@ -159,11 +194,11 @@ berpegang teguh pada yang hak
 lakukan rutinitas dengan ikhlas
 <|end|>
 
-<|start|> [RIMA: m, a]
-minum teh di waktu malam
-teh melati harum baunya
-tekad sembuh tertanam dalam
-demi masa depan indahnya
+<|start|> [RIMA: r, u]
+matahari terbit bersinar
+burung berkicau di pohon jambu
+jangan biarkan dana korban terbakar
+oleh kerakusan pejabat berhati batu
 <|end|>
 
 <|start|> [RIMA: u, i]
@@ -201,11 +236,11 @@ kenapa semua pada kabur sayang
 itu karena kamu belum mandi
 <|end|>
 
-<|start|> [RIMA: k, a]
-beli baju motifnya batik
-batik solo dibeli pak tua
-rumus matematika terlihat cantik
-pecahkan misteri alam semua
+<|start|> [RIMA: m, a]
+minum teh di waktu malam
+teh melati harum baunya
+visi misi tertanam dalam
+bawa usaha capai jaya
 <|end|>
 
 <|start|> [RIMA: h, i]
@@ -222,25 +257,25 @@ selamat pagi di hari kamis
 walaupun sekarang sudah siang
 <|end|>
 
-<|start|> [RIMA: t, i]
-makan cokelat rasanya nikmat
-cokelat manis enak di hati
-jujur selalu bawa selamat
-jauhi dusta sampai nanti
-<|end|>
-
-<|start|> [RIMA: g, a]
-bintang bersinar di malam terang
-bulan tersenyum di angkasa
-anak kos terus berjuang
-demi cita-cita dan masa depan bangsa
+<|start|> [RIMA: n, a]
+pagi hari membeli sarapan
+singgah sebentar membeli kelapa
+anak kos menyimpan impian
+untuk masa depan yang lebih bahagia
 <|end|>
 
 <|start|> [RIMA: i, n]
-air mengalir menuju kali
-ikan berenang di antara bebatuan
-demokrasi membutuhkan partisipasi
-bukan hanya datang saat pemilihan
+pergi ke bali membeli kopi
+kopi hitam di cangkir rotan
+jaga kerukunan diatur rapi
+lintas iman sepanjang zaman
+<|end|>
+
+<|start|> [RIMA: g, n]
+pergi ke kebun membawa keranjang
+jalan berlumpur selepas hujan
+sawit perlu pengawasan yang matang
+supaya tak merusak lingkungan
 <|end|>
 
 <|start|> [RIMA: g, a]
@@ -264,11 +299,11 @@ demokrasi butuh pengontrol raga
 oposisi penyeimbang jalanku
 <|end|>
 
-<|start|> [RIMA: s, a]
-potong bawang sampai menangis
-bawang merah wangi baunya
-terapi perilaku sangatlah praktis
-ubah respons atas masalahnya
+<|start|> [RIMA: t, i]
+nelayan berangkat membawa jaring kuat
+perahu berlayar di pagi hari
+media massa dapat membentuk pendapat
+jika informasi disampaikan dengan teliti
 <|end|>
 
 <|start|> [RIMA: n, u]
@@ -306,11 +341,11 @@ katanya semua kebijakan tepat
 tapi rakyat belum menikmati
 <|end|>
 
-<|start|> [RIMA: i, n]
-burung nuri terbang tinggi
-hinggap sebentar di atas dahan
-jangan habiskan waktu untuk iri
-fokuslah pada perkembangan
+<|start|> [RIMA: g, u]
+awan putih berarak panjang
+anak berlari membawa bambu
+negarawan tak memandang orang
+dari harta, pangkat, atau status tertentu selalu
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -355,11 +390,11 @@ iya pacar emang ganteng
 tapi uang masih minta orang tua
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan ketupat sayurnya pekat
-sayur lodeh pakai tahu
-bencana asap mendekat cepat
-gunakan masker lindungi dirimu
+<|start|> [RIMA: r, i]
+air sungai mengalir teratur
+ikan berenang ke tepi kali
+politik yang dewasa harus jujur
+menghormati perbedaan sepenuh hati
 <|end|>
 
 <|start|> [RIMA: k, l]
@@ -376,11 +411,11 @@ gpp kan aku ntar mimpiin kamu
 tapi jangan bilang-bilang pacarmu ya
 <|end|>
 
-<|start|> [RIMA: n, u]
-pagi cerah menjemur ikan
-ikan disimpan dekat bambu
-jangan korupsi dana pengungsian
-anak-anak korban membutuhkan bantuanmu
+<|start|> [RIMA: i, g]
+pagi hari membeli kopi
+diminum sambil duduk tenang
+programer berkata, aku sangat teliti
+tapi lupa push kode ke branch yang benar, bang
 <|end|>
 
 <|start|> [RIMA: r, n]
@@ -390,11 +425,11 @@ katanya ingin menjadi pejabat besar
 tapi uang rakyat jadi sasaran
 <|end|>
 
-<|start|> [RIMA: t, n]
-pohon mangga berbuah lebat
-dipetik anak di halaman
-surat suara harus dijaga ketat
-agar pemilu berlangsung aman
+<|start|> [RIMA: g, i]
+pagi hari memetik pinang
+burung berkicau di tepi kali
+pohon sawit tumbuh menjulang
+menjadi sumber rezeki petani
 <|end|>
 
 <|start|> [RIMA: k, u]
@@ -404,11 +439,18 @@ kamu itu emang cantik
 sayangnya kamu berani sama ortu
 <|end|>
 
-<|start|> [RIMA: a, h]
-beli kaca di toko baja
-kaca bening bagus dan cerah
-lindungi satwa dari bahaya saja
-pantang mundur pantang menyerah
+<|start|> [RIMA: k, a]
+beli baju motifnya batik
+batik solo dibeli pak tua
+template meme terlihat cantik
+kocak parah disukai semua
+<|end|>
+
+<|start|> [RIMA: s, i]
+pergi ke pasar membeli nanas
+pulang membawa buah kiwi
+programer berkata, semua sudah jelas
+tapi requirement berubah setiap pagi
 <|end|>
 
 <|start|> [RIMA: i, n]
@@ -474,18 +516,18 @@ katanya anggaran sudah diawasi
 tapi laporan sulit dibaca arah
 <|end|>
 
-<|start|> [RIMA: s, u]
-potong manggis rasanya manis
-manggis dibeli di pasar baru
-jangan bersikap terlalu sinis
-pada korban bencana asap itu
+<|start|> [RIMA: g, a]
+burung pipit hinggap di batang
+terbang menuju pohon mangga
+doctor strange membuka portal ruang
+menjaga dunia dari ancaman nyata
 <|end|>
 
-<|start|> [RIMA: a, i]
-pohon mangga tumbuh di desa
-buahnya jatuh dekat kali
-jangan biarkan suap merusak bangsa
-pilih pemimpin dengan nurani
+<|start|> [RIMA: i, n]
+burung merpati terbang tinggi
+hinggap sebentar di atas dahan
+rakyat ingin politik yang bersih dan berani
+bukan kebisingan tanpa penyelesaian
 <|end|>
 
 <|start|> [RIMA: h, s]
@@ -509,11 +551,11 @@ ketika kita mencari ilmu
 maka surga semakin dekat
 <|end|>
 
-<|start|> [RIMA: t, i]
-burung merpati terbang cepat
-hinggap sebentar di pohon jati
-sawit perlu dikelola tepat
-agar petani hidup sejahtera dan mandiri
+<|start|> [RIMA: r, i]
+bintang bersinar di langit lebar
+bulan tersenyum menemani malam sunyi
+korupsi dana bencana sungguh kasar
+menghancurkan harapan korban yang menanti
 <|end|>
 
 <|start|> [RIMA: i, h]
@@ -530,11 +572,11 @@ jabatan bukan milikmu selalu
 gunakan kesempatan untuk mengabdi
 <|end|>
 
-<|start|> [RIMA: t, a]
-pagi hari memetik tomat
-tomat disimpan dekat jendela
-hak suara rakyat harus dihormat
-sebagai dasar kedaulatan negara
+<|start|> [RIMA: i, a]
+bunga melati tumbuh berseri
+harum semerbak di dekat jendela
+industri sawit perlu berinovasi
+agar manfaatnya dirasakan semua
 <|end|>
 
 <|start|> [RIMA: g, t]
@@ -572,11 +614,11 @@ jika ilmu sudah dimiliki
 gunakan selalu dengan hati bersih
 <|end|>
 
-<|start|> [RIMA: g, i]
-burung pipit terbang melayang
-hinggap sebentar di pohon jati
-uang diberikan langsung mendulang suara orang
-prinsip tergadai demi kepentingan pribadi
+<|start|> [RIMA: g, a]
+hujan turun membasahi ladang
+petani berteduh di bawah kelapa
+jangan hanya rakyat yang ditagih uang
+negara juga harus bekerja untuk warga
 <|end|>
 
 <|start|> [RIMA: r, k]
@@ -635,11 +677,25 @@ murid yang rajin dicintai guru
 itu murid yang berbudiman
 <|end|>
 
-<|start|> [RIMA: n, m]
-pergi liburan bersama kawan
-kawan lama di kota batam
-seratus pantun kebohongan tersusun mapan
-semoga pembaca jauh dari dusta kelam
+<|start|> [RIMA: n, a]
+melihat awan di perbukitan
+awan putih cerah warnanya
+hindari meniru dalam perbuatan
+karena orisinalitas utamanya
+<|end|>
+
+<|start|> [RIMA: m, i]
+minum jamu sebelum malam
+tambah madu manis sekali
+kenali satwa secara mendalam
+beri perlindungan hari ini
+<|end|>
+
+<|start|> [RIMA: h, n]
+jalan jalan ke daerah bawah
+lihat sungai banyak bebatuan
+pikir penat membawa lelah
+terjebak dalam kesendirian
 <|end|>
 
 <|start|> [RIMA: i, n]
@@ -663,25 +719,25 @@ katanya semua keputusan tepat
 tapi rakyat belum menikmati
 <|end|>
 
-<|start|> [RIMA: a, n]
-lihat kera makan semangka
-semangka merah manis dimakan
-topeng narsistik terbuka di muka
-sifat aslinya ketahuan
+<|start|> [RIMA: r, n]
+burung kenari hinggap di pagar
+terbang rendah ke halaman
+programer berkata, aku siap belajar
+agar tak bingung saat ada perubahan
 <|end|>
 
-<|start|> [RIMA: t, u]
-kapal nelayan berlayar cepat
-membelah ombak di laut biru
-ram delapan giga terasa tak cukup kuat
-namun menambahnya perlu biaya baru
+<|start|> [RIMA: r, t]
+kayu jati dari jepara dibakar
+asapnya tebal hitam pekat
+perburuan liar mulai berkobar
+lindungi hewan dengan cepat
 <|end|>
 
-<|start|> [RIMA: h, n]
-bunga sepatu berwarna merah
-tumbuh mekar di pekarangan
-jangan biarkan nurani menyerah
-ketika amplop datang dalam pemilihan
+<|start|> [RIMA: r, i]
+bulan bersinar di langit lebar
+bintang berkelip menemani pagi
+politik kotor jangan dibiarkan menyebar
+kritik yang sehat harus dihargai
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -719,11 +775,18 @@ meski harapan belum jadi kenyataan
 jangan biarkan semangat runtuh
 <|end|>
 
-<|start|> [RIMA: t, i]
-pohon mahoni tumbuh kuat
-daunnya berguguran setiap hari
-jangan abaikan keselamatan pekerja sawit
-hak buruh harus dihormati
+<|start|> [RIMA: n, a]
+burung berkicau di atas dahan
+embun berkilau terkena cahaya
+data pemilih menjadi dasar perhitungan
+agar suara tak hilang sia-sia
+<|end|>
+
+<|start|> [RIMA: r, i]
+masak bubur pakai kencur
+kencur dibeli dari petani
+semangat hidup perlahan hancur
+tenggelam dalam duka ini
 <|end|>
 
 <|start|> [RIMA: s, g]
@@ -824,11 +887,11 @@ tendangan penalti sangatlah keras
 bola meluncur ke tepi lapangan
 <|end|>
 
-<|start|> [RIMA: r, i]
-jalan jalan ke tepi air
-air jernih segar di hati
-air mata korban mulai mengalir
-rumah terbakar hari ini
+<|start|> [RIMA: g, i]
+anak desa bermain layang-layang
+layang tersangkut di pohon jati
+captain marvel terbang menjulang
+kekuatannya luar biasa tinggi
 <|end|>
 
 <|start|> [RIMA: k, u]
@@ -845,6 +908,13 @@ ketemu kamu dalam mimpi
 bagiku itu sudah cukup
 <|end|>
 
+<|start|> [RIMA: n, a]
+pergi ke hutan mencari rotan
+rotan kuat dari papua
+sambal tumpang jadi santapan
+tempe semangit lezat semua
+<|end|>
+
 <|start|> [RIMA: g, t]
 pagi hari menangkap udang
 malang sekali jala terlilit
@@ -852,11 +922,11 @@ seringkali meminjam uang
 saat dipinjam sangatlah pelit
 <|end|>
 
-<|start|> [RIMA: t, n]
-pohon jati tumbuh kuat
-daunnya gugur di halaman
-jangan gadaikan martabat
-untuk keuntungan sesaat dalam pemilihan
+<|start|> [RIMA: i, n]
+pohon cemara tumbuh tinggi
+daunnya jatuh dekat halaman
+jangan jadikan kebohongan tradisi
+kebenaran harus menjadi pegangan
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -880,11 +950,11 @@ jika marah tahan amarah
 agar damai jiwa dan raga
 <|end|>
 
-<|start|> [RIMA: n, i]
-burung pipit terbang beriringan
-hinggap bersama di pohon jati
-baliho dipasang di persimpangan jalan
-namun gagasan lebih penting daripada citra diri
+<|start|> [RIMA: a, u]
+main di taman pakai sepeda
+kayu jati dibuat bangku
+hutan hijau tiada duanya
+paru-paru dunia di depanku
 <|end|>
 
 <|start|> [RIMA: s, a]
@@ -894,11 +964,11 @@ rancang sistem secara teknis
 otomatisasi mudahkan kerja
 <|end|>
 
-<|start|> [RIMA: u, n]
-bikin meja dari kayu
-meja ukir buatan paman
-buang egoisme dari dirimu
-sambut damai sepanjang zaman
+<|start|> [RIMA: n, u]
+pergi ke pasar membeli ikan
+ikan dibungkus daun jambu
+rakyat sudah memberi sumbangan
+negara wajib mengabdi kepadamu
 <|end|>
 
 <|start|> [RIMA: t, n]
@@ -929,11 +999,11 @@ katanya rajin bangun pagi
 alarm berbunyi malah disuruh pindah
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke hutan mencari rotan
-rotan kuat dari papua
-jaga lisan dari kebohongan
-agar mulia di hadapan sesama
+<|start|> [RIMA: a, h]
+beli kaca di toko baja
+kaca bening bagus dan cerah
+meniru karya orang saja
+tanpa modal tanpa lelah
 <|end|>
 
 <|start|> [RIMA: i, o]
@@ -950,18 +1020,18 @@ bumi terbelah menjadi lautan
 sebesar itu cintaku padamu
 <|end|>
 
-<|start|> [RIMA: g, n]
-burung pipit terbang melayang
-hinggap sebentar di dahan rambutan
-jangan jadikan identitas alat menyerang
-mari rawat persatuan dan keberagaman
+<|start|> [RIMA: m, i]
+minum jamu sebelum malam
+tambah madu manis sekali
+cegah kebakaran secara mendalam
+jaga hutan hari ini
 <|end|>
 
-<|start|> [RIMA: a, g]
-beli mangga ke pasar raya
-mangga kuning panjang panjang
-plagiat hancurkan dunia karya
-dari tiru kecil terbang melayang
+<|start|> [RIMA: g, i]
+burung pipit terbang melayang
+hinggap sebentar di pohon jati
+jangan mudah tergoda uang
+sebab suara adalah amanah demokrasi
 <|end|>
 
 <|start|> [RIMA: u, t]
@@ -985,11 +1055,11 @@ sepatu roda olahraga muda
 meluncur mulus badannya sehat
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke hutan mencari rotan
-rotan disimpan dekat lemari
-malam menjadi waktu untuk melupakan
-segala luka yang pernah menyakiti
+<|start|> [RIMA: g, i]
+lihat elang terbang melayang
+elang hinggap di pohon duri
+rakyat kecil selalu disayang
+oleh pemerintah penjaga diri
 <|end|>
 
 <|start|> [RIMA: n, g]
@@ -1041,11 +1111,11 @@ hidup jujur hidup terasa
 walau sederhana tetap berkesan
 <|end|>
 
-<|start|> [RIMA: g, a]
-burung nuri terbang melayang
-hinggap sebentar di pohon mangga
-korupsi bantuan membuat hati bimbang
-sebab korban kehilangan segalanya
+<|start|> [RIMA: i, g]
+pagi hari membeli kopi
+diminum sambil duduk tenang
+programer berkata, aku sangat teliti
+tapi lupa commit sebelum pulang
 <|end|>
 
 <|start|> [RIMA: b, a]
@@ -1067,6 +1137,13 @@ burung pipit hinggap di kawat
 terbang menjauh menuju pekarangan
 jangan mengejar jabatan dengan cara sesat
 karena kejujuran adalah landasan
+<|end|>
+
+<|start|> [RIMA: t, a]
+beli baju dan juga jaket
+jaket kulit dibeli mama
+masalah berat diteken mepet
+kita lewati bersama-sama
 <|end|>
 
 <|start|> [RIMA: u, n]
@@ -1104,18 +1181,11 @@ negara dijaga bersih dan indah
 mengapa wabak masih menular
 <|end|>
 
-<|start|> [RIMA: m, a]
-minum teh di waktu malam
-teh melati harum baunya
-tekad riset tertanam dalam
-demi kemajuan ilmu dunia
-<|end|>
-
-<|start|> [RIMA: u, r]
-baca buku mendapat ilmu
-buku dibaca di ruang belajar
-suara kebenaran menantang dirimu
-bikin tirani makin terajar
+<|start|> [RIMA: n, r]
+pohon jambu tumbuh di halaman
+buahnya jatuh dekat pagar
+harga ram jadi beban pikiran
+bagi mereka yang ingin belajar
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -1123,6 +1193,13 @@ pergi ke kota membeli pakaian
 singgah sebentar membeli pepaya
 jangan jadikan agama bahan kampanye murahan
 demi merebut kekuasaan semata
+<|end|>
+
+<|start|> [RIMA: i, a]
+bunga kenanga tumbuh berseri
+harum semerbak dekat jendela
+bapak bilang paling mengerti teknologi
+tapi telepon masuk malah difoto layarnya
 <|end|>
 
 <|start|> [RIMA: a, n]
@@ -1188,18 +1265,18 @@ hidup rukun sesama warga
 membuat hati terasa indah
 <|end|>
 
-<|start|> [RIMA: a, g]
-beli mangga ke pasar raya
-mangga kuning panjang panjang
-kebakaran hutan merusak dunia
-hijau alam terbang melayang
+<|start|> [RIMA: i, a]
+mentari pagi menyinari bumi
+embun berkilau di atas bunga
+sawit membuka peluang ekonomi
+tetapi jangan abaikan alam semesta
 <|end|>
 
-<|start|> [RIMA: a, n]
-pergi berlayar ke pulau jawa
-membawa bekal dalam perjalanan
-jangan gunakan identitas untuk memecah bangsa
-demi keuntungan dalam pemilihan
+<|start|> [RIMA: g, i]
+burung nuri terbang melayang
+hinggap sebentar di pohon kemiri
+bapak bilang tak suka berutang
+tapi tanggal tua selalu menghilang dari rumah sendiri
 <|end|>
 
 <|start|> [RIMA: r, g]
@@ -1237,11 +1314,11 @@ selamat jalan, insan yang kami kasihi
 semoga damai perjalananmu
 <|end|>
 
-<|start|> [RIMA: r, a]
-tidur nyenyak di atas kasur
-kasur empuk besar harganya
-berat masalah harus diukur
-ada jalan di akhirnya
+<|start|> [RIMA: n, i]
+pohon mangga dekat pekarangan
+buahnya jatuh di pagi hari
+setiap rupiah bantuan harus dipertanggungjawabkan
+agar korban tak kembali disakiti
 <|end|>
 
 <|start|> [RIMA: n, u]
@@ -1272,11 +1349,11 @@ kamu memang arif menyapu
 semua sampah masih berserakan
 <|end|>
 
-<|start|> [RIMA: r, m]
-pergi ke pasar beli tikar
-tikar anyam di waktu malam
-laporan kinerja mulai menyebar
-di sidang kabinet malam kelam
+<|start|> [RIMA: r, a]
+burung camar terbang memutar
+mencari ikan di luas samudera
+pemerintah bertindak harus pintar
+sanksi tegas pembakar segera
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -1300,11 +1377,11 @@ angan-angan melayang dalam
 jadi astronot terbang ke tuju
 <|end|>
 
-<|start|> [RIMA: k, n]
-beli baju motifnya batik
-batik solo dibeli di jalan
-pemandangan hijau sangat menarik
-jangan musnahkan di masa depan
+<|start|> [RIMA: t, a]
+beli duku di pasar kawat
+duku manis enak rasanya
+etika bisnis harus dirawat
+demi kepercayaan konsumennya
 <|end|>
 
 <|start|> [RIMA: i, g]
@@ -1314,11 +1391,11 @@ aku di sini sedang berandai
 jika kau menjadi milikku sayang
 <|end|>
 
-<|start|> [RIMA: a, i]
-pohon mangga dekat telaga
-buahnya matang di pagi hari
-keberagaman adalah kekuatan bangsa
-jangan dirusak oleh politik identitas yang tak terkendali
+<|start|> [RIMA: g, a]
+pohon kelapa tumbuh menjulang
+buahnya jatuh dekat telaga
+bapak bilang mau potong uang belanja sekarang
+ibu menjawab, 'potong saja kumismu dulu ya'
 <|end|>
 
 <|start|> [RIMA: i, u]
@@ -1489,11 +1566,11 @@ waktu kecil sudah bersusah-susah
 dewasa kelak bersenang-senang
 <|end|>
 
-<|start|> [RIMA: i, n]
-pergi ke sawah menanam padi
-pulang membawa buah durian
-black panther menjaga negeri sendiri
-wakanda berdiri penuh kebanggaan
+<|start|> [RIMA: t, g]
+pohon jati tumbuh dekat kawat
+burung pipit terbang melayang
+programer mengaku kodenya tepat
+tapi aplikasi terus berulang-ulang
 <|end|>
 
 <|start|> [RIMA: k, i]
@@ -1545,11 +1622,11 @@ jika sudah tumbuh besar
 harus taat mami papi
 <|end|>
 
-<|start|> [RIMA: i, n]
-bikin roti di pagi hari
-roti bakar enak dimakan
-terkurung dalam sepi diri
-tiada teman jadi pegangan
+<|start|> [RIMA: t, i]
+makan tomat harganya hemat
+tomat segar dibeli di bali
+riset ilmiah bawa selamat
+buka rahasia alam ini
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -1559,11 +1636,11 @@ latih model pakai jutaan
 mesin cerdas prediksi sendiri
 <|end|>
 
-<|start|> [RIMA: u, i]
-bawa bambu di atas bahu
-bahu kanan terasa nyeri
-pemerintah wajib tahu
-kondisi riil di bumi pertiwi
+<|start|> [RIMA: n, a]
+melihat awan di perbukitan
+awan putih cerah warnanya
+hutan terbakar musnah perlahan
+hilang flora dan fauna
 <|end|>
 
 <|start|> [RIMA: t, n]
@@ -1573,11 +1650,11 @@ layar dikembang kemudi dipaut
 kalau tak laju binasa badan
 <|end|>
 
-<|start|> [RIMA: k, a]
-bawa kotak isinya perak
-perak mahal dari pak tua
-penemuan fosil purba marak
-ungkap sejarah masa lalu semua
+<|start|> [RIMA: g, n]
+pohon pinang tumbuh menjulang
+burung hinggap di atas dahan
+harga ram membuat gamer bimbang
+antara upgrade atau bertahan
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -1608,18 +1685,18 @@ bangun tidur di saat pagi
 agar cepat berangkat sekolah
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan ketupat sayurnya pekat
-sayur lodeh pakai tahu
-nilai ilahi mendekat cepat
-pandu langkah di hadapanmu
+<|start|> [RIMA: i, a]
+burung pipit terbang tinggi
+hinggap sebentar di pohon mangga
+pajak dipungut setiap hari
+rakyat masih ditanya apa jasanya
 <|end|>
 
-<|start|> [RIMA: i, a]
-bunga melati tumbuh berseri
-harum semerbak dekat telaga
-siapa pahlawan marvel favoritmu sendiri
-semua punya kisah yang istimewa
+<|start|> [RIMA: g, n]
+pergi ke ladang membawa parang
+pulang membeli buah rambutan
+programer berkata, aku sedang berjuang
+menyelesaikan bug yang datang beriringan
 <|end|>
 
 <|start|> [RIMA: s, a]
@@ -1636,11 +1713,11 @@ cinta terpatri tak akan pupus
 meski dunia terus berguncang
 <|end|>
 
-<|start|> [RIMA: g, i]
-burung pipit terbang melayang
-hinggap sebentar di pohon jati
-harga ram membuat orang bimbang
-menunggu promo datang kembali
+<|start|> [RIMA: t, i]
+makan cokelat rasanya nikmat
+cokelat manis enak di hati
+taman nasional bawa selamat
+rumah aman satwa sejati
 <|end|>
 
 <|start|> [RIMA: s, t]
@@ -1678,11 +1755,11 @@ meski ditanam bukan tanaman
 cobalah tebak apakah itu?
 <|end|>
 
-<|start|> [RIMA: r, i]
-masak bubur pakai kencur
-kencur halus wangi sekali
-semangat belajar takkan hancur
-terus meneliti sampai nanti
+<|start|> [RIMA: n, i]
+pergi ke pasar membeli ikan
+singgah sebentar membeli kemiri
+harga memori jadi pembicaraan
+di forum komputer setiap hari
 <|end|>
 
 <|start|> [RIMA: a, i]
@@ -1692,18 +1769,18 @@ aku udah baik dan setia
 tapi mengapa kau tega pergi
 <|end|>
 
-<|start|> [RIMA: h, i]
-jalan jalan ke daerah bawah
-bawah bukit sejuk sekali
-kalau agama dipolitisasi sudah
-hilang damai di dalam hati
+<|start|> [RIMA: i, n]
+bunga dahlia tumbuh berseri
+mekar indah di pekarangan
+rakyat membayar pajak setiap hari
+negara masih menuntut pengorbanan
 <|end|>
 
-<|start|> [RIMA: t, a]
-pagi hari membeli cokelat
-singgah sebentar ke rumah saudara
-koruptor bencana harus mendapat hukuman setimpal dan tepat
-agar tak ada lagi korban yang kehilangan haknya
+<|start|> [RIMA: t, u]
+pohon pinang tumbuh sangat rapat
+kucing tidur dekat batu
+programer berkata, bug sudah tamat
+ternyata pindah ke modul baru
 <|end|>
 
 <|start|> [RIMA: r, i]
@@ -1713,11 +1790,18 @@ katanya ingin membuat rakyat makmur
 tapi dirinya sendiri yang menikmati
 <|end|>
 
-<|start|> [RIMA: r, m]
-pergi ke pasar beli tikar
-tikar anyam di waktu malam
-aroma ayam geprek menyebar
-bikin lapar di malam kelam
+<|start|> [RIMA: t, i]
+makan tomat harganya hemat
+tomat segar dibeli di bali
+bicara pada ahli bawa selamat
+pulihkan jiwa hari demi hari
+<|end|>
+
+<|start|> [RIMA: a, u]
+main di taman pakai sepeda
+kayu jati dibuat bangku
+psikologi hadir bantu kita
+terang benderang di depanku
 <|end|>
 
 <|start|> [RIMA: u, n]
@@ -1727,11 +1811,18 @@ anak baik hormati guru
 itu namanya murid budiman
 <|end|>
 
-<|start|> [RIMA: g, i]
-burung elang terbang melayang
-hinggap sebentar di pohon jati
-jangan silau melihat uang
-gunakan akal dan nurani
+<|start|> [RIMA: n, a]
+pergi ke pasar membeli ikan
+pulang membawa buah delima
+rakyat ingin pemerintahan berkeadilan
+bukan panggung sandiwara dan drama
+<|end|>
+
+<|start|> [RIMA: i, n]
+bunga melati tumbuh berseri
+harumnya menyebar sepanjang jalan
+hargai proses perjalanan diri
+walau belum sampai tujuan
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -1748,18 +1839,25 @@ untukmu guru yang terhormat
 semoga engkau sehat selalu
 <|end|>
 
-<|start|> [RIMA: k, n]
-beli baju motifnya batik
-batik solo dibeli di jalan
-pesan kejujuran sangat menarik
-hindari dusta di masa depan
+<|start|> [RIMA: t, i]
+makan cokelat rasanya nikmat
+cokelat manis enak di hati
+afarmasi diri bawa selamat
+cintai diri sendiri hari ini
 <|end|>
 
-<|start|> [RIMA: u, a]
-pergi ke pasar beli duku
-duku manis dari bapak tua
-kenali batas kemampuan dirimu
-hindari lelah fisik dan jiwa
+<|start|> [RIMA: n, h]
+makan durian bersama teman
+durian jatuh di waktu subuh
+jadi peniru janganlah sombong kawan
+bisa saja namamu jatuh
+<|end|>
+
+<|start|> [RIMA: t, n]
+bunga mawar tumbuh dekat kawat
+disiram pagi oleh teman
+programer mengaku sangat cepat
+tapi update aplikasi menunggu berbulan-bulan
 <|end|>
 
 <|start|> [RIMA: i, n]
@@ -1776,6 +1874,13 @@ bunga cantik menghias indah
 mata memandang jiwa bahagia
 <|end|>
 
+<|start|> [RIMA: u, n]
+pergi ke hulu membawa perahu
+singgah sebentar membeli makanan
+meme membuat orang tertawa tersipu
+walau isinya sindiran kehidupan
+<|end|>
+
 <|start|> [RIMA: h, u]
 pulang dari wisata sejarah
 nyari makan depan posyandu
@@ -1790,18 +1895,25 @@ kantor cabang berdiri megah
 pusat komando di perkotaan
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke hutan mencari rotan
-rotan dibawa ke rumah pak haji
-negarawan menghindari keserakahan
-sebab kekuasaan bukan milik pribadi
+<|start|> [RIMA: n, a]
+pergi ke pasar beli jajan
+jajan pasar enak rasanya
+psikologi positif jadi pegangan
+raih bahagia selamanya
 <|end|>
 
-<|start|> [RIMA: i, n]
-minum kopi di pagi hari
-kopi hitam buatan paman
-merek dagang didaftar diri
-aset berharga sepanjang zaman
+<|start|> [RIMA: u, i]
+bawa bambu di atas bahu
+bahu kanan terasa nyeri
+pencinta karya wajib tahu
+akibat buruk menanti peniru diri
+<|end|>
+
+<|start|> [RIMA: n, a]
+bunga mawar tumbuh di taman
+harum semerbak dekat jendela
+perbedaan bukan alasan perpecahan
+melainkan kekayaan bangsa kita
 <|end|>
 
 <|start|> [RIMA: a, t]
@@ -1881,6 +1993,13 @@ bangun pagi langsung mandi
 jangan lupa makan sarapan
 <|end|>
 
+<|start|> [RIMA: u, a]
+kucing tidur di atas bangku
+tikus bersembunyi di dalam gua
+programer berkata, aku tak perlu guru
+sampai komputer bertanya, yakin bisa?
+<|end|>
+
 <|start|> [RIMA: g, r]
 pohon kelapa tumbuh menjulang
 buahnya jatuh dekat pagar
@@ -1888,11 +2007,11 @@ uang rupiah datang membawa senang
 namun belanja membuatnya buyar
 <|end|>
 
-<|start|> [RIMA: g, t]
-makan roti pinggirnya garing
-tambah selai rasanya nikmat
-kesehatan mental bukanlah hal yang asing
-tapi kebutuhan hidup yang cermat
+<|start|> [RIMA: i, a]
+bunga melati tumbuh berseri
+harum semerbak di dekat jendela
+pajak dipungut dari rakyat setiap hari
+tetapi rakyat masih dianggap tak berjasa
 <|end|>
 
 <|start|> [RIMA: g, i]
@@ -1910,17 +2029,17 @@ segar kuah nikmat di diri
 <|end|>
 
 <|start|> [RIMA: g, i]
-lihat elang terbang melayang
-elang hinggap di pohon duri
-orang berdusta takkan disayang
-dibenci kawan dijauhi diri
+burung merpati terbang melayang
+hinggap di dahan pohon jati
+anak kos tak takut berjuang
+demi masa depan yang dinanti
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke pasar beli jajanan
-jajanan pasar enak sekali
-pemasok handal jadi rebutan
-jaga relasi sepenuh hati
+<|start|> [RIMA: t, i]
+pohon jambu tumbuh lebat
+buahnya matang setiap hari
+jangan jadikan agama alat debat
+untuk memecah persatuan negeri
 <|end|>
 
 <|start|> [RIMA: u, n]
@@ -1937,11 +2056,18 @@ karena bersaing dengan yang tua
 banyak bujang tak dapat istri
 <|end|>
 
-<|start|> [RIMA: r, a]
-tidur nyenyak di atas kasur
-kasur empuk besar harganya
-karya plagiat harus diukur
-malu rasanya di akhirnya
+<|start|> [RIMA: t, i]
+pohon jati tumbuh kuat
+daunnya gugur setiap hari
+jangan menjual hak rakyat
+demi keuntungan sesaat sekali
+<|end|>
+
+<|start|> [RIMA: i, n]
+burung kenari terbang tinggi
+hinggap sebentar di pohon rambutan
+malam mengajarkan kita menghargai
+setiap detik dalam kehidupan
 <|end|>
 
 <|start|> [RIMA: t, n]
@@ -2007,18 +2133,18 @@ belajar jangan malas-malasan
 jika ingin jadi orang berhasil
 <|end|>
 
-<|start|> [RIMA: a, i]
-bikin roti campur mentega
-mentega kuning lembut sekali
-mari lindungi satwa langka
-warisan luhur bumi pertiwi
+<|start|> [RIMA: s, u]
+pergi ke pasar membeli talas
+pulang membawa buah duku
+programer bilang bug sudah tuntas
+muncul bug baru di sebelah situ
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan ketupat sayurnya pekat
-sayur lodeh pakai tahu
-peluang emas mendekat cepat
-raih sukses di hadapanmu
+<|start|> [RIMA: r, n]
+air mengalir menuju sumur
+anak bermain di halaman
+politik yang sehat harus jujur
+bukan mengeksploitasi perbedaan
 <|end|>
 
 <|start|> [RIMA: u, h]
@@ -2049,11 +2175,11 @@ sedih amat lihat mantanku
 sudah sakit-sakitan nggak laku pula
 <|end|>
 
-<|start|> [RIMA: r, n]
-air mengalir menuju sumur
-anak bermain di halaman
-jaga demokrasi agar tetap jujur
-hormati hak seluruh golongan
+<|start|> [RIMA: i, t]
+burung pipit hinggap di jati
+terbang rendah mendekati kawat
+programer lupa makan pagi
+karena debugging sampai kiamat
 <|end|>
 
 <|start|> [RIMA: k, a]
@@ -2082,6 +2208,13 @@ makan cokelat rasanya nikmat
 cokelat manis enak di hati
 game set match bawa selamat
 kemenangan diraih hari ini
+<|end|>
+
+<|start|> [RIMA: r, m]
+pergi ke pasar beli tikar
+tikar anyam di waktu malam
+teori gestalt mulai menyebar
+pandang masalah secara utuh dalam
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -2126,11 +2259,18 @@ tak ku sangka tak ku duga
 kita berdua kembali dipertemukan
 <|end|>
 
-<|start|> [RIMA: n, u]
-makan siang lauknya ikan
-ikan bakar dari pak pandu
-janji palsu selalu ditebar kawan
-bikin hati menahan rindu
+<|start|> [RIMA: i, u]
+burung nuri terbang tinggi
+hinggap sebentar di pohon jambu
+anak kos ingin makan bergizi
+tapi saldo belum mendukung selalu
+<|end|>
+
+<|start|> [RIMA: m, s]
+jalan jalan di waktu malam
+udara dingin terasa magis
+kisah sembuh terdengar dalam
+ubah duka jadi manis
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -2168,11 +2308,11 @@ jika hidup ingin jadi penawar
 berbuat baik tanpa pamrih lagi
 <|end|>
 
-<|start|> [RIMA: m, s]
-makan malam lauknya ayam
-ayam bakar rasanya manis
-bedah data hingga ke malam
-hasilkan jurnal sangat kritis
+<|start|> [RIMA: n, i]
+burung hinggap di atas pohon
+burung gereja bernyanyi pagi
+kepada tuhan kami memohon
+usaha berkah lindungi negeri
 <|end|>
 
 <|start|> [RIMA: a, i]
@@ -2189,18 +2329,18 @@ katanya pemimpin bekerja sepenuh hati
 tapi laporan belum tercatat
 <|end|>
 
-<|start|> [RIMA: a, h]
-beli kaca di toko baja
-kaca bening bagus dan cerah
-abdi negara bekerja saja
-pantang mundur pantang menyerah
+<|start|> [RIMA: m, u]
+minum jamu di waktu malam
+jamu pahit penawar pilu
+hutan terbakar diselam dalam
+cari penyebab masalah dulu
 <|end|>
 
-<|start|> [RIMA: h, n]
-jalan jalan ke daerah bawah
-lihat sungai banyak bebatuan
-rumah ibadah dijaga megah
-simbol damai di perkotaan
+<|start|> [RIMA: g, a]
+burung nuri terbang melayang
+hinggap sebentar di pohon mangga
+rakyat bukan mesin pencetak uang
+negara pun punya tanggung jawab nyata
 <|end|>
 
 <|start|> [RIMA: h, g]
@@ -2231,18 +2371,18 @@ masih kecil tekunlah belajar
 agar bahagia di hari nanti
 <|end|>
 
-<|start|> [RIMA: i, a]
-bunga melati harum berseri
-mekar indah dekat jendela
-jangan gadaikan suara sendiri
-demi amplop yang tak seberapa
+<|start|> [RIMA: i, n]
+burung kenari bernyanyi pagi
+hinggap sebentar di atas dahan
+bapak bilang sedang diet hari ini
+tapi tiga piring nasi jadi santapan
 <|end|>
 
-<|start|> [RIMA: i, a]
-pergi ke sungai mencari teri
-air mengalir menuju muara
-sawit perlu dijaga lestari
-agar alam tetap terpelihara
+<|start|> [RIMA: t, i]
+makan tomat harganya hemat
+tomat segar dibeli di bali
+keluar dari toxic relationship bawa selamat
+hidup tenang senang sekali
 <|end|>
 
 <|start|> [RIMA: a, p]
@@ -2266,18 +2406,18 @@ nonton haerin sampai padam
 senyum manisnya hilangkan lelah
 <|end|>
 
-<|start|> [RIMA: g, i]
-pohon cemara tumbuh menjulang
-burung berkicau di pagi hari
-harga ram terus berkembang
-pembeli menunggu kabar terkini
+<|start|> [RIMA: t, n]
+pohon jambu tumbuh lebat
+buahnya jatuh di halaman
+programer berkata, sistem sudah hebat
+tapi lupa mengaktifkan keamanan
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke hutan mencari rotan
-rotan disusun dekat peti
-negarawan menjunjung kesetaraan
-setiap warga dihargai dan dilindungi
+<|start|> [RIMA: n, a]
+makan durian bersama teman
+durian kuning manis rasanya
+pembukuan bersih jadi pegangan
+lancar pajak amannya
 <|end|>
 
 <|start|> [RIMA: u, g]
@@ -2287,11 +2427,11 @@ jangan malas membaca buku
 agar pikun bisa berkurang
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke kota membeli makanan
-singgah sebentar di rumah tua
-jangan biarkan suap merusak pilihan
-pilih pemimpin yang bekerja nyata
+<|start|> [RIMA: g, a]
+burung camar terbang ke seberang
+hinggap sebentar di pohon mangga
+politik uang membuat demokrasi pincang
+suara rakyat kehilangan makna
 <|end|>
 
 <|start|> [RIMA: k, a]
@@ -2309,17 +2449,17 @@ sendirian diriku setiap malam
 <|end|>
 
 <|start|> [RIMA: t, u]
-jalan kaki naik ke bukit
-bukit hijau di hari minggu
-bila beban terasa sedikit
-bagi cerita dengan guru
+pohon jambu tumbuh dekat pagar rapat
+buahnya jatuh dekat batu
+jangan korupsi bantuan darurat
+rakyat sedang menaruh harapan padamu
 <|end|>
 
-<|start|> [RIMA: g, i]
-pergi ke pantai melihat karang
-ombak berkejaran di tepi kali
-petani sawit jangan berjuang seorang
-perlu dukungan kebijakan yang adil dan pasti
+<|start|> [RIMA: n, i]
+pergi ke taman bersama kawan
+kawan lama berbaju peri
+boundaries diri jadi pegangan
+lindungi hati di dalam diri
 <|end|>
 
 <|start|> [RIMA: h, a]
@@ -2341,6 +2481,13 @@ pergi ke kantor mengantar naskah
 sambil antar beberapa pena
 ke arah mana kaki melangkah
 ku harap adek ada di sana
+<|end|>
+
+<|start|> [RIMA: s, i]
+potong kayu pakai gergaji tajam dan keras
+kayu dibuat menjadi lemari
+kecemasan berlebih harus dilepas
+tenangkan pikiran di dalam diri
 <|end|>
 
 <|start|> [RIMA: l, g]
@@ -2428,17 +2575,17 @@ dari dunia sampai akhirat
 <|end|>
 
 <|start|> [RIMA: i, a]
-bunga melati tumbuh berseri
-disiram hujan di waktu senja
-ingin upgrade ram sendiri
-namun harganya bikin kecewa
+bunga melati harum berseri
+tumbuh subur dekat telaga
+jangan biarkan identitas memisahkan diri
+kita bersaudara sebagai bangsa
 <|end|>
 
-<|start|> [RIMA: g, a]
-burung camar terbang melayang
-hinggap sebentar di pohon kelapa
-petani sawit bekerja dengan berjuang
-menghidupi keluarga dan menjaga usaha
+<|start|> [RIMA: a, i]
+beli mangga di pasar raya
+mangga kuning manis sekali
+cintai diri dengan mulia
+jauh dari narsist sejati
 <|end|>
 
 <|start|> [RIMA: g, i]
@@ -2511,11 +2658,11 @@ belajarlah terus dengan tekun
 tetap semangat pantang mundur
 <|end|>
 
-<|start|> [RIMA: i, n]
-jalan pagi melihat sapi
-sapi perah milik paman
-alat canggih dirakit rapi
-bantu manusia sepanjang zaman
+<|start|> [RIMA: r, t]
+pergi ke pasar beli tikar
+tikar anyam harganya hemat
+ide usaha mulai berkobar
+eksekusi rencana dengan cermat
 <|end|>
 
 <|start|> [RIMA: i, g]
@@ -2553,11 +2700,11 @@ hidup mati untuk negara
 ikhlas hati kalau mati
 <|end|>
 
-<|start|> [RIMA: m, s]
-makan malam lauknya ayam
-ayam bakar rasanya manis
-menyalin skripsi hingga malam
-ketahuan dosen terasa kritis
+<|start|> [RIMA: g, a]
+burung elang terbang melayang
+hinggap sebentar di pohon mangga
+amplop datang membuat orang goyang
+akal sehat pun hilang seketika
 <|end|>
 
 <|start|> [RIMA: t, a]
@@ -2572,6 +2719,13 @@ tupai melompat mencari kentang
 kentang habis tinggal ikan
 sholat magrib waktu petang
 jangan pernah ditinggalkan
+<|end|>
+
+<|start|> [RIMA: g, i]
+burung camar terbang melayang
+hinggap sebentar di pohon jati
+meme tentang mantan datang menyerang
+saat tengah malam membuka galeri
 <|end|>
 
 <|start|> [RIMA: u, a]
@@ -2700,6 +2854,13 @@ jika ingin dihormati kawan
 jangan suka tinggi hati
 <|end|>
 
+<|start|> [RIMA: r, i]
+masak bubur pakai kencur
+kencur halus wangi sekali
+koleksi meme takkan hancur
+tersimpan rapi di galeri
+<|end|>
+
 <|start|> [RIMA: u, k]
 pegunungan jalan berliku
 udara pegunungan sungguh enak
@@ -2714,11 +2875,11 @@ tak ada orang yang suka
 pada cewek yang pemarah
 <|end|>
 
-<|start|> [RIMA: g, a]
-pohon randu tumbuh di padang
-daunnya gugur dekat telaga
-anak kos suka menunda sekarang
-besok tugas menumpuk semua
+<|start|> [RIMA: r, i]
+masak bubur pakai kencur
+kencur dibeli dari petani
+pilar bangsa takkan hancur
+bila agama dihargai kini
 <|end|>
 
 <|start|> [RIMA: k, a]
@@ -2728,11 +2889,11 @@ meski ilmu setinggi tegak
 tak sembahyang apa gunanya
 <|end|>
 
-<|start|> [RIMA: g, i]
-pergi ke ladang membawa parang
-singgah sebentar membeli roti
-jangan biarkan isu identitas berkembang
-hingga persaudaraan terkikis sendiri
+<|start|> [RIMA: g, a]
+air sungai mengalir tenang
+ikan berenang dekat rawa
+bapak bilang mau tidur sekarang
+baru rebahan sudah dipanggil ibu belanja
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -2749,18 +2910,18 @@ lauknya ayam dan sop iga
 sayang semuanya sudah basi
 <|end|>
 
-<|start|> [RIMA: i, n]
-pagi hari melihat sapi
-sapi perah makan rerumputan
-alat ukur dipegang rapi
-siap meneliti di perbatasan
+<|start|> [RIMA: i, u]
+burung nuri terbang tinggi
+hinggap sebentar di pohon jambu
+ram dua keping tampak menarik hati
+namun anggaran harus dihitung dahulu
 <|end|>
 
-<|start|> [RIMA: s, i]
-potong kayu pakai gergaji tajam dan keras
-kayu dibuat menjadi lemari
-rasa superior tak pernah lepas
-rendahkan orang di dalam diri
+<|start|> [RIMA: g, n]
+pergi ke ladang membawa parang
+pulang membeli buah rambutan
+programer berkata, aku sedang berjuang
+menghadapi revisi yang datang berlarian
 <|end|>
 
 <|start|> [RIMA: g, i]
@@ -2784,11 +2945,18 @@ punya sisik tapi bukan ikan
 punya mahkota tapi bukan raja
 <|end|>
 
-<|start|> [RIMA: r, t]
-burung nuri terbang ke luar
-hinggap sebentar di dahan lebat
-semangat wirausaha sangatlah besar
-bawa umkm ke tingkat hebat
+<|start|> [RIMA: a, h]
+beli kaca di toko baja
+kaca bening bagus dan cerah
+terima diri apa adanya saja
+jangan menuntut terlalu lelah
+<|end|>
+
+<|start|> [RIMA: g, n]
+burung elang terbang melayang
+mencari mangsa di tengah hutan
+jangan gunakan identitas untuk menyerang
+orang yang berbeda pilihan
 <|end|>
 
 <|start|> [RIMA: g, r]
@@ -2796,6 +2964,13 @@ berlari cepat biar menang
 dikasih hadiah buah pir
 wahai teman haraplah tenang
 ini kentut bukanlah petir
+<|end|>
+
+<|start|> [RIMA: u, a]
+pergi ke pasar beli duku
+duku manis dari bapak tua
+mari lindungi alam diriku
+dari api melanda semua
 <|end|>
 
 <|start|> [RIMA: g, a]
@@ -2812,11 +2987,11 @@ rasa cintaku tlah kau curi
 namun tak pernah kau balas
 <|end|>
 
-<|start|> [RIMA: i, n]
-pergi ke bali membeli kopi
-kopi hitam di cangkir rotan
-psikoanalisa digali rapi
-ungkap rahasia di perbatasan
+<|start|> [RIMA: r, t]
+burung nuri terbang ke luar
+hinggap sebentar di dahan lebat
+tepuk tangan pendukung bergetar
+sambut kebijakan yang hebat
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -2826,11 +3001,11 @@ akhir menyesal di kemudian hari
 takkan sungguh bagai dikata
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan nasi pakai ketupat
-sayur lodeh pakai tahu
-pilih jujur jalan yang tepat
-bawa berkah untukmu
+<|start|> [RIMA: s, u]
+potong manggis rasanya manis
+manggis dibeli di pasar baru
+jangan bersikap terlalu sinis
+bila karyamu ditiru orang itu
 <|end|>
 
 <|start|> [RIMA: h, u]
@@ -2875,11 +3050,11 @@ jangan berhenti percaya pada asa
 harapan baik akan menghampiri
 <|end|>
 
-<|start|> [RIMA: u, r]
-baca buku mendapat ilmu
-buku dibaca di ruang belajar
-suara harapan memanggil dirimu
-bikin semangat kembali bergetar
+<|start|> [RIMA: t, i]
+pergi ke ladang membawa cangkul berat
+pulang melewati pohon jati
+jangan korupsi dana untuk rakyat
+bantuan itu hak mereka yang sedang menderita ini
 <|end|>
 
 <|start|> [RIMA: i, g]
@@ -2896,6 +3071,13 @@ kesalahan itu takkan kuulangi
 tetaplah denganmu selamanya
 <|end|>
 
+<|start|> [RIMA: t, i]
+bunga anggrek tumbuh dekat kawat
+mekar indah di pagi hari
+negarawan menjaga amanat
+walau tak selalu dipuji
+<|end|>
+
 <|start|> [RIMA: h, a]
 buah mangga jatuh ke tanah
 dipungut anak sambil tertawa
@@ -2910,11 +3092,11 @@ eh mantan jangan sok imut
 muka ente kayak sempak naga
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan ketupat sayurnya pekat
-sayur lodeh pakai tahu
-meme absurd mendekat cepat
-bikin bingung isi kepalamu
+<|start|> [RIMA: r, t]
+pergi ke pasar beli tikar
+tikar anyam harganya hemat
+topeng peniru mulai memekar
+terbuka sudah dengan cermat
 <|end|>
 
 <|start|> [RIMA: i, n]
@@ -2952,18 +3134,18 @@ jangan berhenti menjaga harapan
 tetaplah yakin pada diri sendiri
 <|end|>
 
-<|start|> [RIMA: g, n]
-bunga melati tumbuh di ladang
-harum semerbak sepanjang jalan
-negarawan bekerja tanpa pamrih dan bimbang
-mengutamakan rakyat dalam keputusan
+<|start|> [RIMA: s, a]
+potong bawang sampai menangis
+bawang merah wangi baunya
+hidup meniru terasa kritis
+tak punya identitas aslinya
 <|end|>
 
-<|start|> [RIMA: t, n]
-makan rujak sakit perut
-rujak pedas baru dimakan
-selera makan jangan surut
-cicipi ayam geprek hidangan
+<|start|> [RIMA: i, n]
+pergi ke bali membeli kopi
+kopi hitam di cangkir rotan
+jiwa tabah dibina rapi
+hadapi dunia tanpa ketakutan
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -2994,11 +3176,11 @@ jangan biarkan pikiran tenggelam
 kembangkan bakat setiap waktu
 <|end|>
 
-<|start|> [RIMA: r, a]
-pergi ke pasar beli tikar
-tikar anyam di pasar raya
-jalan pengabdian amatlah sukar
-namun mulia di mata warga
+<|start|> [RIMA: t, i]
+beli kawat panjang dan kuat
+kawat dipotong dengan gergaji
+hutan gundul harus dirawat
+tanam pohon setiap hari
 <|end|>
 
 <|start|> [RIMA: u, a]
@@ -3085,6 +3267,13 @@ jika hidup jauh dari iri
 damai terasa sepanjang masa
 <|end|>
 
+<|start|> [RIMA: u, t]
+beli paku di toko baru
+paku besi harganya hemat
+jangan percaya pada gombalanmu
+yang penuh dusta dan muslihat
+<|end|>
+
 <|start|> [RIMA: u, n]
 jalan-jalan ke maluku
 naik perahu mancing ikan
@@ -3111,6 +3300,13 @@ banyak makanan di meja makan
 jadi hidangan di malam hari
 melihat teman pergi malam mingguan
 hati merana kian menjadi-jadi
+<|end|>
+
+<|start|> [RIMA: t, a]
+beli duku di pasar kawat
+duku manis enak rasanya
+humor meme harus dirawat
+demi kebahagiaan bersama
 <|end|>
 
 <|start|> [RIMA: i, r]
@@ -3253,25 +3449,32 @@ katanya semua pajak sudah tepat
 tapi tagihan datang berulang-ulang
 <|end|>
 
-<|start|> [RIMA: r, m]
-pergi ke pasar beli tikar
-tikar anyam di waktu malam
-cahaya terang mulai menyebar
-usir gelap di malam kelam
+<|start|> [RIMA: r, u]
+langit senja tampak memudar
+burung pulang ke pohon jambu
+jangan biarkan bantuan korban terbakar
+oleh api keserakahan yang membelenggu
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke pasar beli jajan
-jajan pasar enak rasanya
-korban narsist butuh kesembuhan
-untuk kembali bahagia hidupnya
+<|start|> [RIMA: n, i]
+pergi ke pasar beli jajanan
+jajanan pasar enak sekali
+bantuan profesional jadi pegangan
+pulihkan luka di dalam hati
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke pasar membeli ketan
-ketan dibawa ke rumah saudara
-anak kos membuat perencanaan
-agar uang bulanan tak cepat sirna
+<|start|> [RIMA: n, u]
+makan siang lauknya ikan
+ikan bakar dari pak pandu
+meme viral selalu dibagikan
+bikin senyum pembaca rindu
+<|end|>
+
+<|start|> [RIMA: m, s]
+jalan jalan di waktu malam
+udara dingin terasa magis
+kisah pulih terdengar dalam
+ubah duka jadi manis
 <|end|>
 
 <|start|> [RIMA: r, t]
@@ -3281,11 +3484,11 @@ reruntuhan bangunan sangat lebar
 akibat bom mortir hebat
 <|end|>
 
-<|start|> [RIMA: s, u]
-potong manggis rasanya manis
-manggis dibeli di pasar baru
-jangan tolak ayam geprek kritis
-pedas mantap untukmu itu
+<|start|> [RIMA: i, a]
+bunga melati harum sekali
+mekar indah di dekat jendela
+sawit perlu dikelola secara lestari
+agar alam tetap terjaga
 <|end|>
 
 <|start|> [RIMA: n, r]
@@ -3323,11 +3526,18 @@ perutku sakit menahan tawa
 melihat banci menari-nari
 <|end|>
 
-<|start|> [RIMA: s, i]
-potong kayu pakai gergaji tajam dan keras
-kayu dibuat menjadi lemari
-sambal geprek pedasnya lepas
-bikin nagih di dalam diri
+<|start|> [RIMA: n, g]
+jalan ke desa melewati persawahan
+burung berkicau di pohon belakang
+perlu pengawasan dalam perluasan lahan
+agar hutan tak hilang begitu saja dan menghilang
+<|end|>
+
+<|start|> [RIMA: n, a]
+pergi ke pasar beli jajan
+jajan pasar enak rasanya
+kejujuran jadi jalan kemajuan
+bukan dusta penipu dunia
 <|end|>
 
 <|start|> [RIMA: i, u]
@@ -3414,11 +3624,11 @@ remaja wawasan harapan negara
 apakah prinsip yang diinginkan
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke sawah membawa bekalan
-singgah sebentar di rumah tua
-petani sawit butuh perlindungan
-agar hidupnya lebih sejahtera
+<|start|> [RIMA: a, i]
+bikin roti campur mentega
+mentega kuning lembut sekali
+merasa pusat dari semesta
+tak peduli hati orang kini
 <|end|>
 
 <|start|> [RIMA: t, i]
@@ -3435,11 +3645,11 @@ pegang kok dan ayunkan raket
 smash silang menukik tajam
 <|end|>
 
-<|start|> [RIMA: m, h]
-burung hantu terbang di malam
-hinggap diam di atas rumah
-tutup dusta hingga larut malam
-ketahuan juga tanpa lelah
+<|start|> [RIMA: t, u]
+kapal nelayan berlayar cepat
+membelah ombak di laut biru
+anak kos belajar hidup hemat
+supaya masa depan tak kelabu
 <|end|>
 
 <|start|> [RIMA: t, a]
@@ -3477,11 +3687,25 @@ kemakmuran bukan sekadar angka yang gemilang
 tetapi kesejahteraan yang dirasakan seluruh lapisan
 <|end|>
 
-<|start|> [RIMA: k, a]
-beli baju motifnya batik
-batik solo dibeli pak tua
-hutan asri terlihat cantik
-jangan dirusak oleh api jua
+<|start|> [RIMA: n, i]
+pergi ke pasar beli rambutan
+rambutan manis enak sekali
+fauna langka jadi panutan
+keindahan hayati bumi ini
+<|end|>
+
+<|start|> [RIMA: s, i]
+potong kayu pakai gergaji tajam dan keras
+kayu dibuat menjadi lemari
+semangat meneliti tak pernah lepas
+dari jiwa ilmuwan sejati
+<|end|>
+
+<|start|> [RIMA: h, n]
+jalan jalan ke daerah bawah
+lihat sungai banyak bebatuan
+gagal sekali janganlah menyerah
+coba lagi untuk penemuan
 <|end|>
 
 <|start|> [RIMA: i, h]
@@ -3610,11 +3834,11 @@ rupiah dicari setiap hari
 namun belanja jadi kebiasaan
 <|end|>
 
-<|start|> [RIMA: t, a]
-pohon jati tumbuh kuat
-akarnya menjalar di tanah rata
-negarawan menjaga rakyat
-dari kebijakan yang merugikan mereka
+<|start|> [RIMA: a, u]
+main di taman pakai sepeda
+kayu jati dibuat bangku
+tindakan peniru kan binasa jua
+buka lembaran jujur bagiku
 <|end|>
 
 <|start|> [RIMA: a, h]
@@ -3638,18 +3862,18 @@ keharmonisan nada jadi pertaruhan
 main musik sepenuh hati
 <|end|>
 
-<|start|> [RIMA: m, i]
-bikin kolam warnanya hitam
-ikan nila berenang lari
-ayam geprek digoreng tajam
-renyah gurih nikmat sekali
+<|start|> [RIMA: k, a]
+beli baju motifnya batik
+batik solo dibeli pak tua
+hidup ini indah dan cantik
+meski kadang ada duka
 <|end|>
 
-<|start|> [RIMA: t, a]
-pagi hari memetik tomat
-tomat disimpan dekat jendela
-negarawan tak mengejar hormat
-melainkan bekerja demi negara
+<|start|> [RIMA: r, n]
+bintang malam tampak bersinar
+bulan bersembunyi di balik awan
+negara jangan hanya pandai menagih besar
+tetapi lupa menunaikan pelayanan
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -3688,10 +3912,10 @@ siapa tau ia jodohmu
 <|end|>
 
 <|start|> [RIMA: n, a]
-makan durian bersama teman
-durian kuning manis rasanya
-pembukuan bersih jadi pegangan
-lancar pajak amannya
+pergi ke pasar membeli ikan
+pulang membawa buah naga
+jangan jadikan perbedaan sebagai alasan
+untuk membenci sesama warga negara
 <|end|>
 
 <|start|> [RIMA: a, i]
@@ -3715,11 +3939,11 @@ jangan suka memendam dusta
 jujur itu kunci sejati
 <|end|>
 
-<|start|> [RIMA: h, i]
-jalan jalan ke daerah bawah
-bawah bukit sejuk sekali
-kalau ketahuan meniru sudah
-malu rasanya setengah mati
+<|start|> [RIMA: i, t]
+burung pipit hinggap di jati
+terbang rendah mendekati kawat
+programer berkata, semua sudah rapi
+tapi database-nya lupa di-backup tepat
 <|end|>
 
 <|start|> [RIMA: s, a]
@@ -3743,11 +3967,11 @@ malas mandi di selasa pagi
 takut wajah semakin tampan
 <|end|>
 
-<|start|> [RIMA: s, a]
-potong manggis dengan pisau iris
-pisau tajam panjang ukurannya
-kepercayaan runtuh terasa krisis
-akibat bohong ulah pelakunya
+<|start|> [RIMA: t, i]
+pohon mangga tumbuh lebat
+buahnya ranum disukai petani
+anak kos tetap semangat
+sampai sukses datang menghampiri
 <|end|>
 
 <|start|> [RIMA: m, g]
@@ -3806,11 +4030,11 @@ katanya selalu menjaga diri
 melihat diskon langsung lupa segalanya
 <|end|>
 
-<|start|> [RIMA: r, a]
-tidur nyenyak di atas kasur
-kasur empuk besar harganya
-niat berpolitik harus diukur
-berlandaskan takwa kepada-nya
+<|start|> [RIMA: g, u]
+kapal berlayar menuju seberang
+nelayan pulang membawa jambu
+pajak terus datang menyerang
+rakyat bertanya apa hasilnya untukku
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -3839,6 +4063,13 @@ burung camar menepi pantai
 mencari makan di pasir basah
 jika ingin hidup damai
 jangan mudah berprasangka salah
+<|end|>
+
+<|start|> [RIMA: g, n]
+bulan bersinar di langit terang
+bintang berkelip menghiasi awan
+meme viral datang menyerang
+lalu menjadi sejarah perinternet-an
 <|end|>
 
 <|start|> [RIMA: n, g]
@@ -3897,11 +4128,11 @@ anak-anak begitu senang
 melihat kakek bergoyang dangdut
 <|end|>
 
-<|start|> [RIMA: i, a]
-bunga kenanga harum berseri
-tumbuh subur dekat telaga
-spider-man beraksi setiap hari
-menjaga kota dari penjahat berbahaya
+<|start|> [RIMA: u, g]
+burung hantu tidur di pohon bambu
+kucing berlari mengejar belalang
+programer berkata, aku sudah tahu
+tapi kenapa error-nya datang berulang-ulang
 <|end|>
 
 <|start|> [RIMA: g, n]
@@ -3925,11 +4156,11 @@ jadilah wanita yang tegar
 lebih kuat dari karang
 <|end|>
 
-<|start|> [RIMA: m, i]
-minum jamu sebelum malam
-tambah madu manis sekali
-hadapi masalah secara mendalam
-berikan solusi yang terpuji
+<|start|> [RIMA: g, i]
+lihat elang terbang melayang
+elang hinggap di pohon duri
+satwa liar harus disayang
+selamatkan dari api di bumi
 <|end|>
 
 <|start|> [RIMA: i, r]
@@ -3974,11 +4205,11 @@ jika hidup jauh dari salah
 timbang kata sebelum bertandang
 <|end|>
 
-<|start|> [RIMA: a, g]
-beli mangga ke pasar raya
-mangga kuning panjang panjang
-cinta kasih menerangi dunia
-dari hati kecil terbang melayang
+<|start|> [RIMA: t, a]
+pohon kelapa tumbuh dekat kawat
+buahnya jatuh di tepi rawa
+rakyat membayar pajak dengan taat
+mengapa kontribusinya masih dipertanya?
 <|end|>
 
 <|start|> [RIMA: t, i]
@@ -4037,11 +4268,11 @@ prototipe aplikasi sudah dirancang
 siap diuji esok hari
 <|end|>
 
-<|start|> [RIMA: n, i]
-pohon sukun tumbuh di pekarangan
-daunnya lebar meneduhkan pagi
-harga ram jadi bahan perdebatan
-di antara penjual dan pembeli
+<|start|> [RIMA: h, n]
+jalan jalan ke daerah bawah
+lihat sungai banyak bebatuan
+orangutan di pohon berdiri megah
+simbol kekayaan hutan perkotaan
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -4086,11 +4317,11 @@ jika orang banyak berilmu
 sehat makmur sepanjang umur
 <|end|>
 
-<|start|> [RIMA: r, i]
-masak bubur pakai kencur
-kencur dibeli dari petani
-semangat hidup takkan hancur
-bila kita bersabar kini
+<|start|> [RIMA: t, u]
+pagi hari membeli ketupat
+ketupat dibawa ke rumah guru
+dana bantuan jangan disikat
+bencana bukan kesempatan menumpuk harta bagimu
 <|end|>
 
 <|start|> [RIMA: n, h]
@@ -4142,18 +4373,18 @@ cintaku tak selalu harus hebat
 cukup jujur dan bertahan
 <|end|>
 
-<|start|> [RIMA: i, n]
-pergi ke sawah menanam padi
-pulang membawa buah durian
-jangan diskriminasi sesama sendiri
-hanya karena berbeda golongan
+<|start|> [RIMA: r, a]
+burung elang terbang berputar
+hinggap sebentar di pohon mangga
+bapak bilang suaranya merdu benar
+menyanyi satu lagu, tetangga pindah rumah semua
 <|end|>
 
-<|start|> [RIMA: i, n]
-pergi ke toko membeli kopi
-diminum hangat saat hujan
-sawit perlu praktik lestari
-untuk masa depan perkebunan
+<|start|> [RIMA: r, t]
+burung dara terbang ke pagar
+hinggap sebentar dekat kawat
+programer bilang tak perlu belajar
+lima menit kemudian bertanya format
 <|end|>
 
 <|start|> [RIMA: i, g]
@@ -4168,6 +4399,13 @@ pergi ke pasar beli duku
 duku manis dari bapak tua
 mari dukung oposisi bermutu
 pembawa suara rakyat jelata
+<|end|>
+
+<|start|> [RIMA: t, a]
+pagi hari memetik tomat
+tomat disimpan dekat jendela
+hak suara rakyat harus dihormat
+sebagai dasar kedaulatan negara
 <|end|>
 
 <|start|> [RIMA: g, r]
@@ -4254,6 +4492,13 @@ jangan pernah meninggalkan sholat
 agar terus mendapat ridho ilahi
 <|end|>
 
+<|start|> [RIMA: u, a]
+burung merak berjalan ke hulu
+sayap terbuka terkena cahaya
+lembaga pemilu menjaga proses agar tak keliru
+demi suara rakyat yang berharga
+<|end|>
+
 <|start|> [RIMA: a, u]
 kayu jati dibuat meja
 permukaannya halus berkilau
@@ -4268,11 +4513,11 @@ jika hidup ingin tenang
 jaga lisan dan katanya
 <|end|>
 
-<|start|> [RIMA: t, u]
-kapal nelayan berlayar cepat
-membelah ombak di laut biru
-anak kos belajar hidup hemat
-supaya masa depan tak kelabu
+<|start|> [RIMA: h, i]
+jalan jalan ke daerah bawah
+bawah bukit sejuk sekali
+kalau agama dipolitisasi sudah
+hilang damai di dalam hati
 <|end|>
 
 <|start|> [RIMA: u, i]
@@ -4352,6 +4597,13 @@ jika ingin hidup tak gentar
 perkuat iman dan keyakinan
 <|end|>
 
+<|start|> [RIMA: n, u]
+makan siang lauknya ikan
+ikan bakar dari pak pandu
+peluang bisnis harus diciptakan
+bikin konsumen datang rindu
+<|end|>
+
 <|start|> [RIMA: u, g]
 sangat laku jualan jamu
 jualnya ke tanah seberang
@@ -4373,11 +4625,11 @@ kerja gila bawa mudarat
 kendali waktu itu esensi
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke pasar membeli makanan
-singgah sebentar di rumah saudara
-fantastic four punya kekuatan
-menjaga bumi dari ancaman berbahaya
+<|start|> [RIMA: n, u]
+pergi ke kebun menanam pandan
+pulang membawa buah duku
+programer berkata, semua sudah aman
+tapi lupa menutup akses admin itu
 <|end|>
 
 <|start|> [RIMA: u, t]
@@ -4478,11 +4730,11 @@ orang tua jangan disanggah
 agar selamat dunia akhirat
 <|end|>
 
-<|start|> [RIMA: g, i]
-lihat elang terbang melayang
-elang hinggap di pohon duri
-orang jujur selalu disayang
-jauh dari sifat dusta diri
+<|start|> [RIMA: k, n]
+beli baju motifnya batik
+batik solo dibeli di jalan
+pesan konservasi sangat menarik
+demi kelestarian masa depan
 <|end|>
 
 <|start|> [RIMA: h, u]
@@ -4497,6 +4749,13 @@ pohon jambu berbuah lebat
 dipetik anak waktu petang
 jika usaha dibuat hebat
 hasil datang tidak terhalang
+<|end|>
+
+<|start|> [RIMA: r, a]
+tidur nyenyak di atas kasur
+kasur empuk besar harganya
+kinerja menteri terus diukur
+oleh rakyat di seluruhnya
 <|end|>
 
 <|start|> [RIMA: n, a]
@@ -4518,6 +4777,13 @@ burung camar terbang memutar
 mencari ikan di luas samudera
 jadilah orang yang selalu sabar
 tuhan menyayangi hamba yang rela
+<|end|>
+
+<|start|> [RIMA: n, a]
+pergi ke pasar membeli ketan
+pulang singgah di rumah saudara
+jangan memilih karena bayaran
+pilih yang mengabdi kepada negara
 <|end|>
 
 <|start|> [RIMA: r, h]
@@ -4548,11 +4814,11 @@ alam mengajarkan arti ikhlas
 melepas beban dalam keheningan
 <|end|>
 
-<|start|> [RIMA: r, t]
-kayu jati dari jepara dibakar
-asapnya tebal hitam pekat
-egois tinggi mulai berkobar
-injak harga diri dengan cepat
+<|start|> [RIMA: g, a]
+hujan deras turun menjelang petang
+air mengalir menuju muara
+jangan jadikan penderitaan sebagai ladang uang
+bantuan bencana milik seluruh warga
 <|end|>
 
 <|start|> [RIMA: a, i]
@@ -4569,11 +4835,11 @@ kalau tercucuk ia meletup
 kalau terlepas terbangnya tinggi
 <|end|>
 
-<|start|> [RIMA: t, a]
-beli duku di pasar kawat
-duku manis enak rasanya
-etika bisnis harus dirawat
-demi kepercayaan konsumennya
+<|start|> [RIMA: t, i]
+pohon jati tumbuh kuat
+daunnya gugur setiap hari
+perbedaan identitas harus dihormat
+bukan dijadikan alat membenci
 <|end|>
 
 <|start|> [RIMA: h, t]
@@ -4588,6 +4854,20 @@ pagi hari memetik mangga
 mangga manis jatuh ke tanah
 jika ingin hidup bahagia
 tebarkan senyum buang resah
+<|end|>
+
+<|start|> [RIMA: n, i]
+pagi hari menanam tanaman
+sore hari menyiram melati
+negarawan mengutamakan kemakmuran
+bukan kekayaan bagi diri sendiri
+<|end|>
+
+<|start|> [RIMA: i, g]
+bunga kenanga tumbuh berseri
+harumnya sampai ke ruang belakang
+korupsi dana bencana harus diadili
+agar keadilan hadir bagi korban yang berjuang
 <|end|>
 
 <|start|> [RIMA: t, a]
@@ -4609,6 +4889,13 @@ buah duku talang betutu
 beli sekilo untuk arisan
 sesama teman saling membantu
 itulah tanda murid budiman
+<|end|>
+
+<|start|> [RIMA: n, a]
+pagi hari membeli sarapan
+duduk bersantai di tepi telaga
+negarawan menjaga kepercayaan
+agar bangsa semakin berdaya
 <|end|>
 
 <|start|> [RIMA: t, i]
@@ -4646,6 +4933,13 @@ jangan biarkan harapan tersesat
 tetaplah berjalan menuju masa gemilang
 <|end|>
 
+<|start|> [RIMA: i, a]
+minum kopi di pagi hari
+tambah gula sejukkan dada
+mari bersumpah jujur diri
+bebas dusta selamanya
+<|end|>
+
 <|start|> [RIMA: e, i]
 ada udang ada tempe
 sama-sama dimasak dalam kuali
@@ -4665,6 +4959,13 @@ ombak beralun di kuala tanjung
 perahu nelayan pulang ke hulu
 jika adat sentiasa dijunjung
 hilang sengketa hidup bersatu
+<|end|>
+
+<|start|> [RIMA: g, a]
+burung elang terbang melayang
+menembus awan di langit raya
+kekuasaan tanpa kontrol mudah menyimpang
+pengawasan dibutuhkan sepanjang masa
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -4730,6 +5031,13 @@ jangan menyerah pada keadaan
 masa depan masih menanti
 <|end|>
 
+<|start|> [RIMA: i, a]
+minum kopi di pagi hari
+tambah madu sejukkan dada
+ayam geprek nikmat sekali
+pedas gurih tiada duanya
+<|end|>
+
 <|start|> [RIMA: g, i]
 burung kecil bernyanyi riang
 nada halus menyapa pagi
@@ -4751,11 +5059,11 @@ rindu ini tak pernah usai
 seperti laut mencinta samudra
 <|end|>
 
-<|start|> [RIMA: t, u]
-jalan kaki naik ke bukit
-bukit hijau di hari minggu
-meski modal awal sedikit
-terus berjuang gapai mimpimu
+<|start|> [RIMA: r, m]
+pergi ke pasar beli tikar
+tikar anyam di waktu malam
+khotbah damai mulai menyebar
+menyejukkan umat di malam kelam
 <|end|>
 
 <|start|> [RIMA: h, i]
@@ -4807,11 +5115,11 @@ kalau pengen bahagia dalam cinta
 jangan sesekali kamu selingkuh
 <|end|>
 
-<|start|> [RIMA: k, a]
-beli baju motifnya batik
-batik solo dibeli pak tua
-gajah sumatera terlihat cantik
-penjaga hutan yang agung semua
+<|start|> [RIMA: t, n]
+pohon kelapa tumbuh lebat
+buahnya jatuh dekat halaman
+jangan gadaikan hak rakyat
+demi amplop saat pemilihan
 <|end|>
 
 <|start|> [RIMA: u, t]
@@ -4870,11 +5178,11 @@ terbahak-bahak itik tertawa
 melihat monyet memakai sarung
 <|end|>
 
-<|start|> [RIMA: m, i]
-bikin kolam warnanya hitam
-ikan nila berenang lari
-target omset dipatok tajam
-raih sukses hari ini
+<|start|> [RIMA: t, i]
+burung gereja hinggap sesaat
+terbang kembali ke pohon jati
+semua warga harus dihormat
+tanpa membedakan identitas diri
 <|end|>
 
 <|start|> [RIMA: n, g]
@@ -4884,11 +5192,11 @@ di sekolah banyak teman
 bermain belajar hatiku riang
 <|end|>
 
-<|start|> [RIMA: a, h]
-beli kaca di toko baja
-kaca bening bagus dan cerah
-terimalah badai berlalu saja
-jangan biarkan semangat menyerah
+<|start|> [RIMA: r, a]
+burung elang terbang berputar
+hinggap sebentar di pohon mangga
+pejabat korup tak pantas menghindar
+dari tanggung jawab kepada warga
 <|end|>
 
 <|start|> [RIMA: u, i]
@@ -4926,6 +5234,13 @@ jangan lupa olahraga
 jaga badan sehat selalu
 <|end|>
 
+<|start|> [RIMA: u, n]
+pergi ke pantai membawa perahu
+ombak berkejaran menuju lautan
+meme membuat hari terasa seru
+meski tugas menunggu penyelesaian
+<|end|>
+
 <|start|> [RIMA: a, i]
 bikin kursi dari kayu lama
 kursi ukir indah sekali
@@ -4940,11 +5255,11 @@ daritadi aku ndak bisa tidur
 kangenku benerbener udah akut
 <|end|>
 
-<|start|> [RIMA: u, n]
-bikin meja dari kayu
-meja ukir buatan paman
-jaga hutan di sekitar dirimu
-lestari abadi sepanjang zaman
+<|start|> [RIMA: k, m]
+bawa plastik ke toko butik
+plastik merah dari pak satpam
+perilaku narsis terasa pelik
+bikin bingung di malam kelam
 <|end|>
 
 <|start|> [RIMA: s, a]
@@ -4996,11 +5311,11 @@ nastar nanas jadi sajian
 lebaran tiba senang di hati
 <|end|>
 
-<|start|> [RIMA: n, a]
-burung berkicau di atas dahan
-embun berkilau terkena cahaya
-data pemilih menjadi dasar perhitungan
-agar suara tak hilang sia-sia
+<|start|> [RIMA: t, n]
+kupu-kupu hinggap di daun lebat
+terbang berputar di atas taman
+pabrik sawit harus taat
+pada aturan pengelolaan limbah dan lingkungan
 <|end|>
 
 <|start|> [RIMA: t, a]
@@ -5059,11 +5374,11 @@ jika ingin hidup penuh cerita
 isilah dengan amal yang tulus
 <|end|>
 
-<|start|> [RIMA: t, a]
-beli baju dan juga jaket
-jaket kulit dibeli mama
-masalah berat diteken mepet
-kita lewati bersama-sama
+<|start|> [RIMA: r, i]
+bintang bersinar di langit lebar
+bulan menemani malam sunyi
+pajak dibayar setiap tahun dengan sabar
+mengapa rakyat terus dicurigai
 <|end|>
 
 <|start|> [RIMA: g, i]
@@ -5122,11 +5437,11 @@ rasa takut mulai menyebar
 di ruang sunyi malam kelam
 <|end|>
 
-<|start|> [RIMA: i, n]
-pagi hari melihat sapi
-sapi perah makan rerumputan
-karya sendiri diucap rapi
-tanpa meniru dalam perbuatan
+<|start|> [RIMA: r, i]
+air hujan turun teratur
+membasahi taman setiap pagi
+jangan biarkan hati tak jujur
+karena uang yang diberi
 <|end|>
 
 <|start|> [RIMA: n, t]
@@ -5164,11 +5479,11 @@ jika janji sudah benar
 tepati tanpa alasan
 <|end|>
 
-<|start|> [RIMA: t, n]
-makan rujak sakit perut
-rujak pedas baru dimakan
-semangat padam jangan surut
-hingga api benar dipadamkan
+<|start|> [RIMA: a, i]
+pohon mangga tumbuh di desa
+buahnya matang setiap hari
+iron man berkorban demi sesama
+menjadi legenda sepanjang hari
 <|end|>
 
 <|start|> [RIMA: a, m]
@@ -5204,6 +5519,13 @@ burung camar terbang memutar
 mencari ikan di luas samudera
 politikus cerdas harus pintar
 utamakan kepentingan seluruh warga
+<|end|>
+
+<|start|> [RIMA: r, i]
+masak bubur pakai kencur
+kencur halus wangi sekali
+ayam geprek takkan hancur
+meski ditumbuk cabai di diri
 <|end|>
 
 <|start|> [RIMA: n, u]
@@ -5262,11 +5584,18 @@ kita bernyanyi bersama sama
 sembarang lagu kita nyanyikan
 <|end|>
 
+<|start|> [RIMA: a, i]
+beli mangga di pasar raya
+mangga kuning manis sekali
+jadi orang jujur mulia
+jauhi dusta sepenuh hati
+<|end|>
+
 <|start|> [RIMA: r, i]
-air mengalir menuju sumur
-ikan berenang di tepi kali
-groot punya hati yang luhur
-walau berkata dengan kata yang sama setiap kali
+pergi ke kebun mencari akar
+pulang membawa bunga melati
+programer berkata, aku siap jadi pakar
+asal jangan disuruh presentasi lagi
 <|end|>
 
 <|start|> [RIMA: g, u]
@@ -5304,11 +5633,11 @@ makanya mandi sebelum sekolah
 itu ada iler di pipimu
 <|end|>
 
-<|start|> [RIMA: t, i]
-burung merpati terbang cepat
-hinggap sebentar di pohon jati
-jangan gadaikan hak rakyat
-demi keuntungan pribadi
+<|start|> [RIMA: n, u]
+burung pipit mencari makan
+terbang rendah dekat bambu
+jangan jadikan kebencian sebagai tontonan
+rakyat butuh pemimpin yang bermutu
 <|end|>
 
 <|start|> [RIMA: g, u]
@@ -5409,11 +5738,11 @@ jika hati tulus berkata
 ramai orang memberi kepercayaan
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke pasar membeli ikan
-ikan dibawa ke rumah saudara
-harga ram jadi bahan perhitungan
-agar belanja sesuai anggaran keluarga
+<|start|> [RIMA: n, i]
+pergi ke taman bersama kawan
+kawan lama berbaju peri
+hindari eksploitasi tak beraturan
+hargai nyawa di bumi ini
 <|end|>
 
 <|start|> [RIMA: i, s]
@@ -5430,11 +5759,11 @@ antara si ganteng dan si tampan lain
 aku memilihmu sebagai pendamping
 <|end|>
 
-<|start|> [RIMA: s, a]
-potong manggis dengan pisau iris
-pisau tajam panjang ukurannya
-ayam geprek level duapuluh kritis
-pedas membakar lidah rasanya
+<|start|> [RIMA: u, i]
+air terjun jatuh menderu
+pelangi muncul sesudah hujan tadi
+sawit perlu dikembangkan dengan ilmu
+agar alam dan ekonomi lestari
 <|end|>
 
 <|start|> [RIMA: n, h]
@@ -5472,11 +5801,11 @@ jika akal sentiasa terang
 tipu daya mudah terlepas
 <|end|>
 
-<|start|> [RIMA: i, a]
-burung kenari bernyanyi pagi
-hinggap sebentar di pohon mangga
-ram besar memang menarik hati
-tetapi kebutuhan harus diutamakan juga
+<|start|> [RIMA: r, a]
+pergi ke pasar beli tikar
+tikar anyam di pasar raya
+pesona satwa amatlah mekar
+perindah sudut bumi buana
 <|end|>
 
 <|start|> [RIMA: a, h]
@@ -5505,6 +5834,13 @@ kalau kita pergi ke pangkalan
 lebih baik makan di sawah
 kalau kita tidak ada keperluan
 lebih baik diam di rumah
+<|end|>
+
+<|start|> [RIMA: t, i]
+pohon jati tumbuh kuat
+akarnya menjalar di tanah tinggi
+anak kos belajar menjadi hebat
+dengan kesabaran dan mandiri
 <|end|>
 
 <|start|> [RIMA: a, i]
@@ -5598,11 +5934,11 @@ ini negeri yang demokrasi
 bukanlah negeri yang lucu
 <|end|>
 
-<|start|> [RIMA: h, n]
-main tanah di bawah rumah
-rumah panggung peninggalan kawan
-hutan asri membawa berkah
-sehat udara di masa depan
+<|start|> [RIMA: a, i]
+pohon mangga tumbuh di desa
+buahnya matang setiap pagi
+marvel menyatukan banyak cerita
+dalam semesta yang penuh imajinasi
 <|end|>
 
 <|start|> [RIMA: g, t]
@@ -5619,11 +5955,11 @@ saya buka lowongan cinta
 silahkan pesan bila berminat
 <|end|>
 
-<|start|> [RIMA: u, t]
-beli paku di toko baru
-paku besi harganya hemat
-jangan biarkan api memburu
-lindungi hutan dengan semangat
+<|start|> [RIMA: t, n]
+pohon pisang tumbuh lebat
+daunnya jatuh dekat halaman
+wasp bergerak dengan cepat
+membantu avengers dalam pertempuran
 <|end|>
 
 <|start|> [RIMA: h, a]
@@ -5668,6 +6004,13 @@ temanteman semua berani
 loncat ke danau basahbasahan
 <|end|>
 
+<|start|> [RIMA: n, i]
+pergi ke taman bersama kawan
+kawan lama berbaju peri
+dukung riset tanpa keraguan
+agar ilmuwan terus berdiri
+<|end|>
+
 <|start|> [RIMA: s, u]
 potong manggis rasanya manis
 manggis dibeli di pasar baru
@@ -5683,10 +6026,10 @@ kelola juga pengeluaran
 <|end|>
 
 <|start|> [RIMA: a, i]
-beli mangga di pasar raya
-mangga kuning manis sekali
-haus pujian sepanjang gaya
-butuh disembah tiap hari
+pohon kelapa tumbuh di desa
+daunnya melambai terkena mentari
+sawit memberi manfaat bagi negara
+jika dikelola secara lestari
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -5843,6 +6186,13 @@ jika niat sudah ikhlas
 tuhan dekat dalam hati
 <|end|>
 
+<|start|> [RIMA: u, t]
+beli paku di toko baru
+paku besi harganya hemat
+jangan menyerah pada waktumu
+gapai penemuan dengan semangat
+<|end|>
+
 <|start|> [RIMA: k, a]
 bawa kotak isinya perak
 perak mahal dari pak tua
@@ -5864,6 +6214,20 @@ pengolahan sampah haruslah pintar
 daur ulang selamatkan udara
 <|end|>
 
+<|start|> [RIMA: i, a]
+pohon mangga tumbuh berseri
+buahnya ranum berwarna jingga
+alat politik dapat digunakan untuk mengabdi
+atau disalahgunakan demi kuasa
+<|end|>
+
+<|start|> [RIMA: i, a]
+burung nuri terbang ke kiri
+hinggap sebentar di pohon mangga
+jurnalisme investigasi mengungkapkan informasi
+agar penyimpangan tak tersembunyi lama
+<|end|>
+
 <|start|> [RIMA: a, u]
 anak kecil bernama sonia
 bila sakit minum jamu
@@ -5878,11 +6242,11 @@ jangan suka merayu kak ayu
 kak ayu masih sekolah
 <|end|>
 
-<|start|> [RIMA: a, i]
-bikin roti campur mentega
-mentega kuning lembut sekali
-jadi pemimpin berjiwa agama
-bela rakyat sepenuh hati
+<|start|> [RIMA: n, a]
+burung berkicau di pepohonan
+angin bertiup dari samudra
+pajak menjadi kewajiban
+pelayanan juga kewajiban negara
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -5927,18 +6291,18 @@ jika hidup ingin tak terpukul
 kuatkan hati dan mandiri
 <|end|>
 
-<|start|> [RIMA: t, i]
-makan cokelat rasanya nikmat
-cokelat manis enak di hati
-karya sendiri bawa selamat
-jauhi meniru sampai nanti
+<|start|> [RIMA: n, a]
+pergi ke sawah membawa bekalan
+singgah sebentar di rumah saudara
+politik uang bukan jalan kebaikan
+hanya membuat rakyat sengsara
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke taman bersama kawan
-kawan lama berbaju peri
-ayam geprek jadi sajian
-makan siang senang di hati
+<|start|> [RIMA: r, n]
+air sungai mengalir teratur
+ikan berenang beriringan
+sawit perlu pengawasan yang terukur
+agar lestari untuk masa depan
 <|end|>
 
 <|start|> [RIMA: g, i]
@@ -5953,6 +6317,13 @@ pohon jati tumbuh tegak
 akarnya kuat mencengkam bumi
 jika pendirian mahu tegak
 pegang prinsip dalam diri
+<|end|>
+
+<|start|> [RIMA: n, a]
+pergi ke pasar membeli ikan
+ikan dibawa ke rumah saudara
+negarawan menjaga hak kehidupan
+bagi setiap warga negara
 <|end|>
 
 <|start|> [RIMA: o, n]
@@ -5976,6 +6347,13 @@ siapa amanah dalam kebenaran
 tuah terdiri iman melekat
 <|end|>
 
+<|start|> [RIMA: t, n]
+makan rujak sakit perut
+rujak pedas baru dimakan
+barisan abdi jangan sampai surut
+terus kawal dan disuarakan
+<|end|>
+
 <|start|> [RIMA: r, i]
 orang berkumis tampang sangar
 hanya makan sepotong ubi
@@ -5990,11 +6368,11 @@ selera makan tertanam dalam
 pada hidangan khas nusantara
 <|end|>
 
-<|start|> [RIMA: a, i]
-pohon mangga tumbuh di desa
-buahnya matang setiap pagi
-jangan jadikan identitas sebagai senjata
-demokrasi perlu toleransi
+<|start|> [RIMA: s, i]
+ikan berenang di air deras
+nelayan pulang membawa teri
+programer berkata bug sudah tuntas
+besok muncul lagi versi seri
 <|end|>
 
 <|start|> [RIMA: s, k]
@@ -6032,11 +6410,11 @@ mic di ruang sidang bergetar
 kritik pedas disampaikan tepat
 <|end|>
 
-<|start|> [RIMA: n, i]
-pohon kelapa dekat perairan
-buahnya jatuh di tepi kali
-anak kos mengerjakan laporan
-sampai pagi tak sempat tidur lagi
+<|start|> [RIMA: m, i]
+bikin kolam warnanya hitam
+ikan nila berenang lari
+tatap masa depan tajam
+sayangi raga dan juga diri
 <|end|>
 
 <|start|> [RIMA: k, n]
@@ -6067,11 +6445,11 @@ jika ingin ilmu bertambah selalu
 rajin membaca setiap pekan
 <|end|>
 
-<|start|> [RIMA: g, a]
-naik perahu ke ujung tanjung
-tanjung pandan indah tempatnya
-pemerintah adil datang berkunjung
-bawa senyum bagi bangsanya
+<|start|> [RIMA: m, a]
+minum teh di waktu malam
+teh melati harum baunya
+tekad jaga hutan tertanam dalam
+hindari bencana selamanya
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -6214,11 +6592,11 @@ dari kecil tekun belajar
 kurang main tak berguna
 <|end|>
 
-<|start|> [RIMA: t, i]
-pohon mangga tumbuh dekat kawat
-buahnya jatuh di pagi hari
-anak kos hidup dengan hemat
-agar dompet tak menangis sendiri
+<|start|> [RIMA: n, a]
+makan durian bersama teman
+durian kuning manis rasanya
+satwa langka jadi pegangan
+bukti indahnya alam kita
 <|end|>
 
 <|start|> [RIMA: u, h]
@@ -6226,6 +6604,13 @@ demo menolak hasil pemilu
 faktanya bikin masyarakat susah
 buanglah jauh jauh masa lalu
 sambutlah masa depanmu yang cerah
+<|end|>
+
+<|start|> [RIMA: m, i]
+bikin kolam warnanya hitam
+ikan nila berenang lari
+karya orang diambil tajam
+diaku sebagai miliknya hari ini
 <|end|>
 
 <|start|> [RIMA: i, g]
@@ -6236,10 +6621,10 @@ agar hidup makin terang
 <|end|>
 
 <|start|> [RIMA: g, i]
-pergi ke bukit melihat bintang
-pulang melewati pohon jati
-wolverine bertarung dengan garang
-cakarnya tajam tak mudah mati
+pergi ke pasar membeli pisang
+pulang membawa bunga melati
+programer berkata, aku tak pernah curang
+tapi commit-nya bertuliskan 'fix bug' lagi
 <|end|>
 
 <|start|> [RIMA: u, t]
@@ -6261,6 +6646,13 @@ kayu jati dari jepara dibakar
 asapnya tebal hitam pekat
 gambar kocak mulai berkobar
 hibur warganet dengan semangat
+<|end|>
+
+<|start|> [RIMA: g, a]
+bunga melati tumbuh di ladang
+harumnya menyebar ke seluruh desa
+propaganda bisa menggiring pandang
+bila fakta disisihkan demi kuasa
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -6305,11 +6697,11 @@ musim pemilu tiba segera
 suara rakyat diperebutkan kini
 <|end|>
 
-<|start|> [RIMA: a, i]
-pergi ke pantai melihat samudra
-ombak berkejaran setiap pagi
-jangan tergoda janji sementara
-demi uang yang segera pergi
+<|start|> [RIMA: i, a]
+bunga kenanga tumbuh berseri
+harumnya sampai ke rumah saudara
+jangan gunakan agama untuk mencaci
+politik harus menjaga sesama
 <|end|>
 
 <|start|> [RIMA: a, u]
@@ -6396,11 +6788,11 @@ berjuang untuk partai saja
 pantang mundur pantang menyerah
 <|end|>
 
-<|start|> [RIMA: a, i]
-pohon mangga tumbuh di desa
-buahnya matang di pagi hari
-politik harus mengutamakan kepentingan bangsa
-bukan identitas kelompok sendiri
+<|start|> [RIMA: n, i]
+pohon mangga dekat halaman
+buahnya jatuh dekat kali
+bapak bilang sedang banyak pikiran
+padahal lupa menaruh kunci motor sendiri
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -6417,18 +6809,18 @@ jika hidup hendak berlain
 tingkatkan diri agar bersinar
 <|end|>
 
-<|start|> [RIMA: r, t]
-burung nuri terbang ke luar
-hinggap sebentar di dahan lebat
-asap kebakaran hutan sangatlah memar
-bikin warga sesak dengan hebat
+<|start|> [RIMA: g, i]
+pergi ke bukit melihat bintang
+pulang melewati pohon jati
+wolverine bertarung dengan garang
+cakarnya tajam tak mudah mati
 <|end|>
 
-<|start|> [RIMA: i, n]
-minum kopi di pagi hari
-kopi hitam buatan paman
-ayam geprek di negeri ini
-terkenal luas sepanjang zaman
+<|start|> [RIMA: n, i]
+melihat awan di perbukitan
+awan putih indah berseri
+pikirkan esok penuh harapan
+jangan tenggelam dalam sepi
 <|end|>
 
 <|start|> [RIMA: n, g]
@@ -6445,6 +6837,13 @@ jika sabar jadi pegangan
 hidup tenang jauh dari resah
 <|end|>
 
+<|start|> [RIMA: h, i]
+jalan jalan ke daerah bawah
+bawah bukit sejuk sekali
+kalau formula ketemu sudah
+ilmuwan bersenang dalam hati
+<|end|>
+
 <|start|> [RIMA: a, i]
 hari libur kunjung ke vila
 datangnya saat sore hari
@@ -6452,11 +6851,11 @@ aku pikir kamu orang gila
 karena senyumsenyum sendiri
 <|end|>
 
-<|start|> [RIMA: g, a]
-bunga kenanga tumbuh di ladang
-harumnya menyebar ke seluruh desa
-anak kos menunggu teman datang
-untuk makan bersama di warung sederhana
+<|start|> [RIMA: s, u]
+potong manggis rasanya manis
+manggis dibeli di pasar baru
+jangan bersikap terlalu sinis
+pada pemuka agama jujur itu
 <|end|>
 
 <|start|> [RIMA: u, g]
@@ -6464,6 +6863,13 @@ kayu jati di atas batu
 sudah diikat dibawa pulang
 budaya dunia memang begitu
 benda yang buruk memang terbuang
+<|end|>
+
+<|start|> [RIMA: r, i]
+masak bubur pakai kencur
+kencur dibeli dari petani
+pelayanan publik takkan hancur
+bila diawasi warga kini
 <|end|>
 
 <|start|> [RIMA: i, h]
@@ -6536,11 +6942,11 @@ kalau mau tercapai citacita
 rajinrajinlah bagi waktu
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan ketupat sayurnya pekat
-sayur lodeh pakai tahu
-peniru ulung mendekat cepat
-ambil ide di kepalamu
+<|start|> [RIMA: t, a]
+pergi ke pasar membeli obat
+pulang membawa buah naga
+rakyat sudah membayar dengan taat
+kini saatnya negara membuktikan jasa
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -6550,11 +6956,11 @@ jika tuan orang yang pandai
 benda apakah makannya dua cara?
 <|end|>
 
-<|start|> [RIMA: r, t]
-burung nuri terbang ke luar
-hinggap sebentar di dahan lebat
-aksi plagiat publik mulai terbongkar
-akibat ulah peniru hebat
+<|start|> [RIMA: g, n]
+pergi ke bukit melihat bintang
+pulang melewati jalanan
+jangan mudah tergoda uang
+pilih pemimpin dengan pertimbangan
 <|end|>
 
 <|start|> [RIMA: k, n]
@@ -6569,6 +6975,13 @@ pergi ke pasar membeli peti
 peti dibawa menggunakan kendaraan
 katanya ingin jadi orang berprestasi
 tapi tugas kuliah selalu keteteran
+<|end|>
+
+<|start|> [RIMA: n, a]
+pergi ke kebun memetik rambutan
+rambutan merah dibawa ke kota
+anak kos merindukan kampung halaman
+terutama saat libur tiba
 <|end|>
 
 <|start|> [RIMA: g, k]
@@ -6599,11 +7012,11 @@ teliti kosmos diselam dalam
 gapai bintang di waktu baru
 <|end|>
 
-<|start|> [RIMA: u, r]
-baca buku mendapat ilmu
-buku dibaca di ruang belajar
-teori baru menantang dirimu
-bikin semangat makin bergetar
+<|start|> [RIMA: g, a]
+bulan bersinar di malam terang
+bintang bertabur di angkasa
+harga ram semakin garang
+dompet tipis tak berdaya
 <|end|>
 
 <|start|> [RIMA: n, g]
@@ -6704,18 +7117,25 @@ meme menghibur hati yang sepi
 saat teman sibuk dengan kesibukan
 <|end|>
 
-<|start|> [RIMA: s, i]
-potong kayu pakai gergaji tajam dan keras
-kayu dibuat menjadi lemari
-fanatisme sempit harus dilepas
-jaga kerukunan di dalam diri
+<|start|> [RIMA: n, u]
+pohon mangga dekat halaman
+buahnya jatuh dekat bambu
+rakyat membayar kewajiban
+negara lupa melayani rakyatmu
 <|end|>
 
-<|start|> [RIMA: a, g]
-burung nuri hinggap di jendela
-terbang melintasi sawah yang lapang
-sawit menjadi andalan usaha
-jika tata kelolanya terang
+<|start|> [RIMA: n, i]
+pergi memancing di pelabuhan
+dapat ikan di pagi hari
+minta dimengerti jadi kebutuhan
+tapi tak mau peduli diri
+<|end|>
+
+<|start|> [RIMA: g, i]
+burung merpati terbang ke seberang
+hinggap sebentar di pohon jati
+harga ram semakin menjulang
+dompet menjerit melihat harga terkini
 <|end|>
 
 <|start|> [RIMA: a, u]
@@ -6746,11 +7166,11 @@ ayo blok bola dengan kuat
 bikin lawan jatuh terpelanting
 <|end|>
 
-<|start|> [RIMA: i, a]
-bunga mawar tumbuh berseri
-harum semerbak dekat telaga
-pahlawan sejati berjuang sepenuh hati
-bukan demi pujian dan nama
+<|start|> [RIMA: g, i]
+pergi ke pasar membeli pisang
+pulang membawa bunga melati
+programer berkata, aku tak pernah bimbang
+kecuali saat diminta menjelaskan kode sendiri
 <|end|>
 
 <|start|> [RIMA: i, a]
@@ -6795,11 +7215,11 @@ vokal tinggi suaranya membesar
 menari energik penuh semangat
 <|end|>
 
-<|start|> [RIMA: n, i]
-burung hinggap di atas pohon
-burung gereja bernyanyi pagi
-kepada tuhan kami memohon
-jauh dari plagiat dan benci
+<|start|> [RIMA: t, n]
+pohon kelapa tumbuh lebat
+buahnya jatuh di halaman
+jangan biarkan suara rakyat
+dibeli dengan uang pemberian
 <|end|>
 
 <|start|> [RIMA: u, i]
@@ -6893,6 +7313,13 @@ aku ingin sekali bertemu
 walau hanya sedetik saja
 <|end|>
 
+<|start|> [RIMA: u, a]
+bebek berenang menuju hulu
+katak melompat dekat rawa
+anak kos rindu pelukan ibu
+saat sakit datang melanda
+<|end|>
+
 <|start|> [RIMA: a, n]
 pohon pandan wangi daunnya
 disimpan kering dalam anyaman
@@ -6942,11 +7369,11 @@ malam minggu tiba lagi
 banyakbanyain sabar ya mblo
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke pasar beli jajan
-jajan pasar enak rasanya
-hutan lestari jadi tujuan
-sejahtera hidup bersama-sama
+<|start|> [RIMA: i, a]
+bunga mawar tumbuh berseri
+harum semerbak dekat telaga
+shang-chi menguasai seni bela diri
+dengan cincin yang penuh tenaga
 <|end|>
 
 <|start|> [RIMA: t, i]
@@ -7173,18 +7600,18 @@ dari pada ngomong terus
 mending kamu cepat mandi
 <|end|>
 
-<|start|> [RIMA: n, i]
-melihat awan di perbukitan
-awan putih indah berseri
-ayam geprek jadi sajian
-nikmat disantap setiap hari
+<|start|> [RIMA: g, i]
+pohon randu tumbuh menjulang
+daunnya gugur di tepi kali
+sawit perlu pengelolaan yang seimbang
+antara ekonomi dan ekologi
 <|end|>
 
-<|start|> [RIMA: u, a]
-perahu nelayan berlayar ke hulu
-angin bertiup membawa suara
-aksi massa menjadi saluran aspirasi yang perlu
-direspons dengan dialog terbuka
+<|start|> [RIMA: n, i]
+pergi ke taman bersama kawan
+kawan lama berbaju peri
+hindari ceroboh di hutan
+jaga keselamatan bumi sendiri
 <|end|>
 
 <|start|> [RIMA: n, h]
@@ -7222,18 +7649,18 @@ inovasi bukanlah hal yang asing
 tapi kebutuhan hidup yang cermat
 <|end|>
 
-<|start|> [RIMA: k, n]
-beli baju motifnya batik
-batik solo dibeli di jalan
-masa depan begitu cantik
-raih bersama di masa depan
+<|start|> [RIMA: r, a]
+burung camar terbang berputar
+ombak berkejaran menuju muara
+jangan biarkan korupsi menyebar
+di tengah usaha menyelamatkan warga
 <|end|>
 
-<|start|> [RIMA: g, a]
-burung pipit hinggap di batang
-terbang rendah menuju rawa
-anak kos sering lupa makan siang
-karena sibuk bermain gim saja
+<|start|> [RIMA: a, u]
+main di taman pakai sepeda
+kayu jati dibuat bangku
+bantuan selalu ada diada
+ulurkan tangan ke depanku
 <|end|>
 
 <|start|> [RIMA: a, h]
@@ -7271,11 +7698,11 @@ minji tampil memukau padamu
 cantik natural jadi panutan
 <|end|>
 
-<|start|> [RIMA: t, n]
-kupu-kupu hinggap di daun lebat
-terbang berputar di atas taman
-pabrik sawit harus taat
-pada aturan pengelolaan limbah dan lingkungan
+<|start|> [RIMA: h, i]
+jalan jalan ke daerah bawah
+bawah bukit sejuk sekali
+kalau korban sadar sudah
+si narsist pergi setengah mati
 <|end|>
 
 <|start|> [RIMA: t, g]
@@ -7306,18 +7733,18 @@ lagi kangen kamu bingit
 ketemu kamu langsing nyosor
 <|end|>
 
-<|start|> [RIMA: n, a]
-pergi ke pasar membeli makanan
-pulang melewati rumah tua
-jangan terjebak politik bayaran
-pilihlah berdasarkan rekam jejak nyata
+<|start|> [RIMA: n, u]
+pergi ke kebun menanam pandan
+pulang membawa buah duku
+programer berkata, aku punya jawaban
+kalau laptop hang, restart dulu
 <|end|>
 
-<|start|> [RIMA: r, a]
-burung camar terbang memutar
-mencari ikan di luas samudera
-polisi hutan bekerja pintar
-jaga kawasan lindung segera
+<|start|> [RIMA: t, n]
+pohon jambu tumbuh dekat pagar kawat
+buahnya dipetik untuk hidangan
+programer mengaku sangat akurat
+tapi salah zona waktu saat bikin jadwal rapat harian
 <|end|>
 
 <|start|> [RIMA: g, h]
@@ -7348,11 +7775,11 @@ langkah sembuh jangan surut
 gapai damai yang diimpikan
 <|end|>
 
-<|start|> [RIMA: g, u]
-bambu kuning tumbuh di tebing
-bambu dipotong jadikan bangku
-api membakar sangat nyaring
-hanguskan rumah margasatwaku
+<|start|> [RIMA: t, i]
+pohon kelapa tumbuh dekat
+daunnya jatuh di tepi kali
+captain america berjuang kuat
+demi keadilan negeri ini
 <|end|>
 
 <|start|> [RIMA: g, i]
@@ -7439,6 +7866,13 @@ jika ingin dihargai nanti
 tepati janji dan perkataan
 <|end|>
 
+<|start|> [RIMA: n, a]
+pagi hari pergi ke taman
+melihat bunga berwarna jingga
+anak kos mencuci pakaian
+lalu lupa menjemurnya juga
+<|end|>
+
 <|start|> [RIMA: u, n]
 berakit-rakit kita ke hulu
 berenang-renang ke tepian
@@ -7486,6 +7920,13 @@ ke pasar pagi membeli talas
 talas muda dimasak gulai
 jika ingin langkahmu jelas
 tentukan arah sejak mulai
+<|end|>
+
+<|start|> [RIMA: a, i]
+beli mangga di pasar raya
+mangga kuning manis sekali
+jadi peniru sepanjang gaya
+karya sendiri tiada arti
 <|end|>
 
 <|start|> [RIMA: h, a]
@@ -7537,11 +7978,11 @@ nama baik hancur lebur
 karena dusta terbukti kini
 <|end|>
 
-<|start|> [RIMA: i, a]
-minum kopi di pagi hari
-tambah madu sejukkan dada
-cintai dirimu sepenuh hati
-anugerah hidup tiada duanya
+<|start|> [RIMA: n, i]
+buah rambutan jatuh ke halaman
+dipungut anak lalu dicuci
+bantuan korban harus disampaikan
+jangan diselewengkan demi ambisi pribadi
 <|end|>
 
 <|start|> [RIMA: h, t]
@@ -7570,6 +8011,13 @@ bikin kursi dari kayu lama
 kursi ukir indah sekali
 jangan meremehkan si orang biasa
 berhemat cerdas bawa rezeki
+<|end|>
+
+<|start|> [RIMA: h, n]
+jalan jalan ke daerah bawah
+lihat sungai banyak bebatuan
+bangun usaha tanpa lelah
+raih omset jutaan bulanan
 <|end|>
 
 <|start|> [RIMA: m, u]
@@ -7614,11 +8062,11 @@ bukan iq yang jadi jaminan
 tapi sabar menahan emosi
 <|end|>
 
-<|start|> [RIMA: n, a]
-beli pepaya di hari pekan
-jangan lupa membeli kelapa
-anak kos menyusun anggaran bulanan
-agar tak kehabisan uang sebelum waktunya
+<|start|> [RIMA: u, n]
+bikin meja dari kayu
+meja ukir buatan paman
+buang pikiran kelam darimu
+sambut terang sepanjang zaman
 <|end|>
 
 <|start|> [RIMA: i, g]
@@ -7696,6 +8144,13 @@ para pedagang mengaku rugi
 covid-19 bikin aturan ribet
 kapan kita bisa ketemu lagi
 aku udah kangen kamu banget
+<|end|>
+
+<|start|> [RIMA: a, u]
+main di taman pakai sepeda
+kayu jati dibuat bangku
+wirausaha buka jalan berbeda
+gapai sukses di depanku
 <|end|>
 
 <|start|> [RIMA: a, m]
@@ -7817,11 +8272,11 @@ selama belum ngeliat kamu
 hati ini takkan bisa tenang
 <|end|>
 
-<|start|> [RIMA: n, h]
-makan durian bersama teman
-durian jatuh di waktu subuh
-jangan ladeni narsist kawan
-bisa buat mentalmu rubuh
+<|start|> [RIMA: t, n]
+pohon mangga tumbuh lebat
+buahnya jatuh di halaman
+programer berkata, sistem sudah hebat
+tapi lupa mengaktifkan keamanan
 <|end|>
 
 <|start|> [RIMA: k, a]
@@ -7838,11 +8293,11 @@ pancasila jadi dasar ikutan
 pemerintah jalankan untuk semua
 <|end|>
 
-<|start|> [RIMA: m, s]
-jalan jalan di waktu malam
-udara dingin terasa magis
-kisah pulih terdengar dalam
-ubah duka jadi manis
+<|start|> [RIMA: g, a]
+nelayan pulang membawa udang
+jaring disimpan dekat dermaga
+pajak naik berulang-ulang
+pelayanan publik masih seadanya
 <|end|>
 
 <|start|> [RIMA: u, n]
@@ -7853,10 +8308,10 @@ hapus marah dan kesalahan
 <|end|>
 
 <|start|> [RIMA: n, a]
-melihat awan di perbukitan
-awan putih cerah warnanya
-hindari meniru dalam perbuatan
-karena orisinalitas utamanya
+pergi ke kota membeli makanan
+singgah sebentar di rumah tua
+jangan biarkan suap merusak pilihan
+pilih pemimpin yang bekerja nyata
 <|end|>
 
 <|start|> [RIMA: k, a]
@@ -7978,11 +8433,11 @@ orang berbudi kita berbahasa
 mesra ikatan erat perpaduan
 <|end|>
 
-<|start|> [RIMA: m, h]
-burung hantu terbang di malam
-hinggap diam di atas rumah
-makan ayam geprek hingga malam
-keringat bercucur tanpa lelah
+<|start|> [RIMA: n, a]
+burung pipit hinggap di dahan
+terbang rendah menuju rawa
+perkebunan sawit butuh kepastian lahan
+agar konflik tak terus melanda warga
 <|end|>
 
 <|start|> [RIMA: u, n]
@@ -8034,11 +8489,11 @@ jika hidup ingin selalu tenang
 jangan suka membuat susah
 <|end|>
 
-<|start|> [RIMA: t, i]
-pohon jati tumbuh kuat
-daunnya gugur saat kemarau nanti
-petani perlu akses pasar yang tepat
-agar harga panen tak merugikan diri
+<|start|> [RIMA: n, h]
+makan durian bersama teman
+durian jatuh di waktu subuh
+jangan ladeni narsist kawan
+bisa buat mentalmu rubuh
 <|end|>
 
 <|start|> [RIMA: r, n]
@@ -8062,11 +8517,11 @@ yang dipakai memang jam rolex
 kalau boleh tau kw berapa?
 <|end|>
 
-<|start|> [RIMA: t, i]
-makan tomat harganya hemat
-tomat segar dibeli di bali
-plagiat ulung bawa selamat
-padahal menipu hari ini
+<|start|> [RIMA: i, a]
+minum kopi di pagi hari
+tambah gula sejukkan dada
+mari berpolitik suci diri
+demi bangsa jaya selamanya
 <|end|>
 
 <|start|> [RIMA: n, i]
@@ -8097,11 +8552,11 @@ biar pandai menjaga diri
 takut nanti diejek orang
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke pasar beli rambutan
-rambutan manis enak sekali
-kesehatan mental jadi panutan
-di dunia modern saat ini
+<|start|> [RIMA: g, i]
+pergi ke pasar membeli pisang
+pulang membawa bunga melati
+programer berkata, aku tetap berjuang
+walau kodenya error setiap hari
 <|end|>
 
 <|start|> [RIMA: h, n]
@@ -8146,11 +8601,11 @@ bikin meme tertawa saja
 lepas penat tanpa lelah
 <|end|>
 
-<|start|> [RIMA: t, u]
-makan ketupat sayurnya pekat
-sayur lodeh pakai tahu
-sifat narsist mendekat cepat
-bawa luka di kepalamu
+<|start|> [RIMA: u, a]
+kucing tidur di atas bangku
+tikus bersembunyi di dalam gua
+programer berkata, kodenya lucu
+karena error-nya muncul saat bos tertawa
 <|end|>
 
 <|start|> [RIMA: a, n]
@@ -8172,6 +8627,13 @@ ke pulau seberang membawa barang
 subuh hari berangkat berlayar
 kalo pidatoku kurang panjang
 silakan undang lagi tapi bayar
+<|end|>
+
+<|start|> [RIMA: u, r]
+baca buku mendapat ilmu
+buku dibaca di ruang belajar
+ayam geprek di genggamanmu
+bikin selera makan bergetar
 <|end|>
 
 <|start|> [RIMA: n, u]
@@ -8237,11 +8699,11 @@ tekad baja harus dirawat
 saat susah mendera raga
 <|end|>
 
-<|start|> [RIMA: n, m]
-pergi liburan bersama kawan
-kawan lama di kota batam
-seratus pantun satwa dilindungi tersusun mapan
-semoga fauna kita lestari aman tentram
+<|start|> [RIMA: r, i]
+burung kenari terbang berputar
+hinggap sebentar di pohon melati
+programer diminta memperbaiki server
+malah memperbaiki wallpaper desktop lagi
 <|end|>
 
 <|start|> [RIMA: u, t]
@@ -8272,11 +8734,18 @@ siapa yang rezekinya halal
 pasti hidupnya mendapat berkah
 <|end|>
 
-<|start|> [RIMA: n, i]
-pergi ke pasar beli rambutan
-rambutan manis enak sekali
-bumbu cabai jadi kekuatan
-ciptakan rasa luar biasa ini
+<|start|> [RIMA: g, a]
+bulan bersinar di malam terang
+bintang bertabur di angkasa
+anak kos menunggu uang datang
+sambil menghitung hari tersisa
+<|end|>
+
+<|start|> [RIMA: m, u]
+minum jamu di waktu malam
+jamu pahit penawar pilu
+doa dipanjatkan ke dasar dalam
+tenang hati di waktu baru
 <|end|>
 
 <|start|> [RIMA: t, i]
@@ -8293,11 +8762,11 @@ istri berkurap suami berkurap
 capek tangan kaki menggaruk
 <|end|>
 
-<|start|> [RIMA: g, i]
-burung pipit terbang melayang
-hinggap sebentar di pohon jati
-jangan biarkan politik memancing perang
-antarsesama anak negeri
+<|start|> [RIMA: n, i]
+bunga dahlia tumbuh di taman
+mekar indah dekat kali
+bapak bilang suka tantangan
+tapi disuruh gendong cucu langsung berhenti
 <|end|>
 
 <|start|> [RIMA: h, a]
@@ -8321,6 +8790,13 @@ bila ku tahu bercinta sakit
 takkan ku mulai dari semula
 <|end|>
 
+<|start|> [RIMA: u, t]
+beli paku di toko baru
+paku besi harganya hemat
+jangan menyerah pada waktumu
+kejar target dengan semangat
+<|end|>
+
 <|start|> [RIMA: a, n]
 sewa pakaian raja
 saat ikut karnaval agustusan
@@ -8335,11 +8811,11 @@ manifesto partai ditulis cantik
 tarik simpati pemilih semua
 <|end|>
 
-<|start|> [RIMA: n, u]
-anak ayam mencari makan
-induknya berteduh dekat bambu
-jangan curi dana pembangunan
-rumah korban harus dibangun kembali untukmu
+<|start|> [RIMA: g, n]
+pergi ke ladang membawa parang
+pulang membeli buah rambutan
+programer berkata, aku sedang berjuang
+mengejar deadline dan revisi berbarengan
 <|end|>
 
 <|start|> [RIMA: s, a]
@@ -8412,6 +8888,13 @@ sungguh galau memendam rindu
 ternyata dia selingkuh! payah
 <|end|>
 
+<|start|> [RIMA: n, u]
+makan siang lauknya ikan
+ikan bakar dari pak pandu
+hasil curian selalu dibanggakan kawan
+bikin penonton menahan rindu
+<|end|>
+
 <|start|> [RIMA: a, i]
 pohon kelapa ditanam disana
 berdekatan dengan pohon kenari
@@ -8419,11 +8902,11 @@ peran ibu bapak dalam dunia
 bagaikan bulan dan matahari
 <|end|>
 
-<|start|> [RIMA: i, a]
-bunga mawar tumbuh berseri
-harum semerbak dekat telaga
-shang-chi menguasai seni bela diri
-dengan cincin yang penuh tenaga
+<|start|> [RIMA: s, i]
+pergi ke pasar membeli nanas
+pulang membawa roti isi
+programer berkata, bug sudah terhempas
+ternyata muncul lagi setelah aplikasi diuji
 <|end|>
 
 <|start|> [RIMA: u, a]
@@ -8594,11 +9077,11 @@ melodi indah berdendang sayang
 bikin terlena di dalam diri
 <|end|>
 
-<|start|> [RIMA: t, n]
-pohon pisang tumbuh lebat
-daunnya jatuh dekat halaman
-jangan korbankan hak masyarakat
-untuk amplop saat pemilihan
+<|start|> [RIMA: i, n]
+burung kenari bernyanyi pagi
+hinggap sebentar di dahan
+rakyat membutuhkan pemimpin berintegritas tinggi
+bukan pemain sandiwara dan pencitraan
 <|end|>
 
 <|start|> [RIMA: u, i]
@@ -8643,11 +9126,11 @@ ayam geprek pedas sedikit
 bikin keringat di mulutmu
 <|end|>
 
-<|start|> [RIMA: s, i]
-potong kayu pakai gergaji tajam dan keras
-kayu dibuat menjadi lemari
-asap tebal tak pernah lepas
-selimuti langit di dalam diri
+<|start|> [RIMA: r, i]
+air mengalir menuju sumur
+ikan berenang di tepi kali
+groot punya hati yang luhur
+walau berkata dengan kata yang sama setiap kali
 <|end|>
 
 <|start|> [RIMA: u, h]
@@ -8657,11 +9140,11 @@ jika hidup ingin selalu padu
 satukan niat dan tekad utuh
 <|end|>
 
-<|start|> [RIMA: s, u]
-potong manggis rasanya manis
-manggis dibeli di pasar baru
-dengar suara yang tulus sinis
-bukan, mereka peduli padamu
+<|start|> [RIMA: i, n]
+pohon cemara tumbuh tinggi
+akar menjalar dekat halaman
+bantuan korban jangan dikurangi
+setiap rupiah wajib dipertanggungjawabkan
 <|end|>
 
 <|start|> [RIMA: h, n]
@@ -8704,19 +9187,5 @@ berburu belut ke pematang sawah
 bawa mobil beserta gula
 jarak memisah tak jadi masalah
 kala rindu selalu membara
-<|end|>
-
-<|start|> [RIMA: u, n]
-sakit kepala bikin ngilu
-lebih baik nonton upin ipin
-udah besar nggak tau malu
-makan masih minta disuapin
-<|end|>
-
-<|start|> [RIMA: g, n]
-berjalan kaki ketika pulang
-mempir dulu ke rumah makan
-memegang pundak seseorang
-dikira teman ternyata bukan
 <|end|>
 

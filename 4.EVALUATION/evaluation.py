@@ -31,12 +31,33 @@ def count_syllables(line: str) -> int:
     return len(vowels)
 
 def check_rhyme(lines: list) -> bool:
-    """Mengecek apakah rima akhir baris mengikuti pola a-b-a-b secara sederhana."""
-    if len(lines) < 4:
+    """Mengecek apakah rima akhir baris mengikuti pola a-b-a-b secara akurat."""
+    # Bersihkan baris dari string kosong, spasi berlebih, atau tag khusus
+    cleaned_lines = []
+    for l in lines:
+        # Hapus tag khusus jika ikut ter-generate
+        l_clean = re.sub(r'<\|.*?\|>', '', l).strip()
+        # Hapus tanda baca di akhir baris agar pengecekan rima huruf murni
+        l_clean = re.sub(r'[,.\-\?!]+$', '', l_clean).strip()
+        if l_clean:
+            cleaned_lines.append(l_clean)
+            
+    # Pantun yang valid minimal harus memiliki 4 baris teks bersih
+    if len(cleaned_lines) < 4:
         return False
     
-    endings = [re.sub(r'[^a-z]', '', l.lower())[-2:] if len(re.sub(r'[^a-z]', '', l.lower())) >= 2 else "" for l in lines[:4]]
+    # Ambil 4 baris pertama yang sesungguhnya
+    target_lines = cleaned_lines[:4]
     
+    # Ambil 2 huruf vokal/konsonan terakhir dari masing-masing 4 baris
+    endings = []
+    for l in target_lines:
+        letters_only = re.sub(r'[^a-z]', '', l.lower())
+        # Ambil 2 huruf terakhir, atau 1 huruf jika kata terakhir sangat pendek
+        ending = letters_only[-2:] if len(letters_only) >= 2 else letters_only
+        endings.append(ending)
+    
+    # Pola rima pantun baku: A-B-A-B (Baris 0 mirip Baris 2, Baris 1 mirip Baris 3)
     match_a = endings[0] == endings[2] and endings[0] != ""
     match_b = endings[1] == endings[3] and endings[1] != ""
     
